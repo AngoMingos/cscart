@@ -1,0 +1,6 @@
+<addon>
+    <id>my_custom_module</id>
+    <version>1.0</version>
+    <name>My Custom Module</name>
+    <description>Custom functionalities for my theme.</description>
+</addon>
