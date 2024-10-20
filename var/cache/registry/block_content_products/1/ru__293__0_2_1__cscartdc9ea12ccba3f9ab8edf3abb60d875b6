@@ -1,4 +1,4 @@
-a:2:{s:4:"data";a:2:{s:10:"javascript";s:161:"<script src="http://cscart/js/tygh/exceptions.js?ver=1729437050" ></script><script src="http://cscart/js/tygh/product_image_gallery.js?ver=1729437050" ></script>";s:7:"content";s:58807:"        <div class="ty-mainbox-simple-container clearfix homepage-on-sale">
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:161:"<script src="http://cscart/js/tygh/exceptions.js?ver=1729446225" ></script><script src="http://cscart/js/tygh/product_image_gallery.js?ver=1729446225" ></script>";s:7:"content";s:58567:"        <div class="ty-mainbox-simple-container clearfix homepage-on-sale">
                     <h2 class="ty-mainbox-simple-title">
                                                     Распродажа
                                 
@@ -48,7 +48,7 @@ a:2:{s:4:"data";a:2:{s:10:"javascript";s:161:"<script src="http://cscart/js/tygh
 
 <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://cscart/" method="post" name="product_form_64000150" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
 <input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
-<input type="hidden" name="redirect_url" value="index.php?currency=RUB" />
+<input type="hidden" name="redirect_url" value="index.php" />
 <input type="hidden" name="product_data[150][product_id]" value="150" />
 <div class="ty-grid-list__image">
 
@@ -83,7 +83,7 @@ a:2:{s:4:"data";a:2:{s:10:"javascript";s:161:"<script src="http://cscart/js/tygh
                                                                 
     
 
-    <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="150" data-ca-target-id="product_quick_view" href="http://cscart/index.php?dispatch=products.quick_view&amp;product_id=150&amp;prev_url=index.php%3Fcurrency%3DRUB&amp;n_plain=Y&amp;n_items=150%2C181%2C231%2C282%2C230%2C278%2C164%2C177" data-ca-dialog-title="Быстрый просмотр товаров" rel="nofollow">Просмотр</a>
+    <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="150" data-ca-target-id="product_quick_view" href="http://cscart/index.php?dispatch=products.quick_view&amp;product_id=150&amp;prev_url=index.php&amp;n_plain=Y&amp;n_items=150%2C181%2C231%2C282%2C230%2C278%2C164%2C177" data-ca-dialog-title="Быстрый просмотр товаров" rel="nofollow">Просмотр</a>
 </div><div class="button-container"><div class="cm-reload-64000150 " id="add_to_cart_update_64000150">
 <input type="hidden" name="appearance[show_add_to_cart]" value="1" />
 <input type="hidden" name="appearance[show_list_buttons]" value="" />
@@ -153,7 +153,7 @@ a:2:{s:4:"data";a:2:{s:10:"javascript";s:161:"<script src="http://cscart/js/tygh
 
 <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://cscart/" method="post" name="product_form_64000181" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
 <input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
-<input type="hidden" name="redirect_url" value="index.php?currency=RUB" />
+<input type="hidden" name="redirect_url" value="index.php" />
 <input type="hidden" name="product_data[181][product_id]" value="181" />
 <div class="ty-grid-list__image">
 
@@ -226,7 +226,7 @@ a:2:{s:4:"data";a:2:{s:10:"javascript";s:161:"<script src="http://cscart/js/tygh
                                                                 
     
 
-    <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="181" data-ca-target-id="product_quick_view" href="http://cscart/index.php?dispatch=products.quick_view&amp;product_id=181&amp;prev_url=index.php%3Fcurrency%3DRUB&amp;n_plain=Y&amp;n_items=150%2C181%2C231%2C282%2C230%2C278%2C164%2C177" data-ca-dialog-title="Быстрый просмотр товаров" rel="nofollow">Просмотр</a>
+    <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="181" data-ca-target-id="product_quick_view" href="http://cscart/index.php?dispatch=products.quick_view&amp;product_id=181&amp;prev_url=index.php&amp;n_plain=Y&amp;n_items=150%2C181%2C231%2C282%2C230%2C278%2C164%2C177" data-ca-dialog-title="Быстрый просмотр товаров" rel="nofollow">Просмотр</a>
 </div><div class="button-container"><div class="cm-reload-64000181 " id="add_to_cart_update_64000181">
 <input type="hidden" name="appearance[show_add_to_cart]" value="1" />
 <input type="hidden" name="appearance[show_list_buttons]" value="" />
@@ -296,7 +296,7 @@ a:2:{s:4:"data";a:2:{s:10:"javascript";s:161:"<script src="http://cscart/js/tygh
 
 <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://cscart/" method="post" name="product_form_64000231" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
 <input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
-<input type="hidden" name="redirect_url" value="index.php?currency=RUB" />
+<input type="hidden" name="redirect_url" value="index.php" />
 <input type="hidden" name="product_data[231][product_id]" value="231" />
 <div class="ty-grid-list__image">
 
@@ -357,7 +357,7 @@ a:2:{s:4:"data";a:2:{s:10:"javascript";s:161:"<script src="http://cscart/js/tygh
                                                                 
     
 
-    <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="231" data-ca-target-id="product_quick_view" href="http://cscart/index.php?dispatch=products.quick_view&amp;product_id=231&amp;prev_url=index.php%3Fcurrency%3DRUB&amp;n_plain=Y&amp;n_items=150%2C181%2C231%2C282%2C230%2C278%2C164%2C177" data-ca-dialog-title="Быстрый просмотр товаров" rel="nofollow">Просмотр</a>
+    <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="231" data-ca-target-id="product_quick_view" href="http://cscart/index.php?dispatch=products.quick_view&amp;product_id=231&amp;prev_url=index.php&amp;n_plain=Y&amp;n_items=150%2C181%2C231%2C282%2C230%2C278%2C164%2C177" data-ca-dialog-title="Быстрый просмотр товаров" rel="nofollow">Просмотр</a>
 </div><div class="button-container"><div class="cm-reload-64000231 " id="add_to_cart_update_64000231">
 <input type="hidden" name="appearance[show_add_to_cart]" value="1" />
 <input type="hidden" name="appearance[show_list_buttons]" value="" />
@@ -427,7 +427,7 @@ a:2:{s:4:"data";a:2:{s:10:"javascript";s:161:"<script src="http://cscart/js/tygh
 
 <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://cscart/" method="post" name="product_form_64000282" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
 <input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
-<input type="hidden" name="redirect_url" value="index.php?currency=RUB" />
+<input type="hidden" name="redirect_url" value="index.php" />
 <input type="hidden" name="product_data[282][product_id]" value="282" />
 <div class="ty-grid-list__image">
 
@@ -505,7 +505,7 @@ a:2:{s:4:"data";a:2:{s:10:"javascript";s:161:"<script src="http://cscart/js/tygh
                                                                 
     
 
-    <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="282" data-ca-target-id="product_quick_view" href="http://cscart/index.php?dispatch=products.quick_view&amp;product_id=282&amp;prev_url=index.php%3Fcurrency%3DRUB&amp;n_plain=Y&amp;n_items=150%2C181%2C231%2C282%2C230%2C278%2C164%2C177" data-ca-dialog-title="Быстрый просмотр товаров" rel="nofollow">Просмотр</a>
+    <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="282" data-ca-target-id="product_quick_view" href="http://cscart/index.php?dispatch=products.quick_view&amp;product_id=282&amp;prev_url=index.php&amp;n_plain=Y&amp;n_items=150%2C181%2C231%2C282%2C230%2C278%2C164%2C177" data-ca-dialog-title="Быстрый просмотр товаров" rel="nofollow">Просмотр</a>
 </div><div class="button-container"><div class="cm-reload-64000282 " id="add_to_cart_update_64000282">
 <input type="hidden" name="appearance[show_add_to_cart]" value="1" />
 <input type="hidden" name="appearance[show_list_buttons]" value="" />
@@ -574,7 +574,7 @@ a:2:{s:4:"data";a:2:{s:10:"javascript";s:161:"<script src="http://cscart/js/tygh
 
 <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://cscart/" method="post" name="product_form_64000230" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
 <input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
-<input type="hidden" name="redirect_url" value="index.php?currency=RUB" />
+<input type="hidden" name="redirect_url" value="index.php" />
 <input type="hidden" name="product_data[230][product_id]" value="230" />
 <div class="ty-grid-list__image">
 
@@ -635,7 +635,7 @@ a:2:{s:4:"data";a:2:{s:10:"javascript";s:161:"<script src="http://cscart/js/tygh
                                                                 
     
 
-    <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="230" data-ca-target-id="product_quick_view" href="http://cscart/index.php?dispatch=products.quick_view&amp;product_id=230&amp;prev_url=index.php%3Fcurrency%3DRUB&amp;n_plain=Y&amp;n_items=150%2C181%2C231%2C282%2C230%2C278%2C164%2C177" data-ca-dialog-title="Быстрый просмотр товаров" rel="nofollow">Просмотр</a>
+    <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="230" data-ca-target-id="product_quick_view" href="http://cscart/index.php?dispatch=products.quick_view&amp;product_id=230&amp;prev_url=index.php&amp;n_plain=Y&amp;n_items=150%2C181%2C231%2C282%2C230%2C278%2C164%2C177" data-ca-dialog-title="Быстрый просмотр товаров" rel="nofollow">Просмотр</a>
 </div><div class="button-container"><div class="cm-reload-64000230 " id="add_to_cart_update_64000230">
 <input type="hidden" name="appearance[show_add_to_cart]" value="1" />
 <input type="hidden" name="appearance[show_list_buttons]" value="" />
@@ -705,7 +705,7 @@ a:2:{s:4:"data";a:2:{s:10:"javascript";s:161:"<script src="http://cscart/js/tygh
 
 <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://cscart/" method="post" name="product_form_64000278" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
 <input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
-<input type="hidden" name="redirect_url" value="index.php?currency=RUB" />
+<input type="hidden" name="redirect_url" value="index.php" />
 <input type="hidden" name="product_data[278][product_id]" value="278" />
 <div class="ty-grid-list__image">
 
@@ -785,7 +785,7 @@ a:2:{s:4:"data";a:2:{s:10:"javascript";s:161:"<script src="http://cscart/js/tygh
                                                                 
     
 
-    <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="278" data-ca-target-id="product_quick_view" href="http://cscart/index.php?dispatch=products.quick_view&amp;product_id=278&amp;prev_url=index.php%3Fcurrency%3DRUB&amp;n_plain=Y&amp;n_items=150%2C181%2C231%2C282%2C230%2C278%2C164%2C177" data-ca-dialog-title="Быстрый просмотр товаров" rel="nofollow">Просмотр</a>
+    <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="278" data-ca-target-id="product_quick_view" href="http://cscart/index.php?dispatch=products.quick_view&amp;product_id=278&amp;prev_url=index.php&amp;n_plain=Y&amp;n_items=150%2C181%2C231%2C282%2C230%2C278%2C164%2C177" data-ca-dialog-title="Быстрый просмотр товаров" rel="nofollow">Просмотр</a>
 </div><div class="button-container"><div class="cm-reload-64000278 " id="add_to_cart_update_64000278">
 <input type="hidden" name="appearance[show_add_to_cart]" value="1" />
 <input type="hidden" name="appearance[show_list_buttons]" value="" />
@@ -854,7 +854,7 @@ a:2:{s:4:"data";a:2:{s:10:"javascript";s:161:"<script src="http://cscart/js/tygh
 
 <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://cscart/" method="post" name="product_form_64000164" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
 <input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
-<input type="hidden" name="redirect_url" value="index.php?currency=RUB" />
+<input type="hidden" name="redirect_url" value="index.php" />
 <input type="hidden" name="product_data[164][product_id]" value="164" />
 <div class="ty-grid-list__image">
 
@@ -921,7 +921,7 @@ a:2:{s:4:"data";a:2:{s:10:"javascript";s:161:"<script src="http://cscart/js/tygh
                                                                 
     
 
-    <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="164" data-ca-target-id="product_quick_view" href="http://cscart/index.php?dispatch=products.quick_view&amp;product_id=164&amp;prev_url=index.php%3Fcurrency%3DRUB&amp;n_plain=Y&amp;n_items=150%2C181%2C231%2C282%2C230%2C278%2C164%2C177" data-ca-dialog-title="Быстрый просмотр товаров" rel="nofollow">Просмотр</a>
+    <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="164" data-ca-target-id="product_quick_view" href="http://cscart/index.php?dispatch=products.quick_view&amp;product_id=164&amp;prev_url=index.php&amp;n_plain=Y&amp;n_items=150%2C181%2C231%2C282%2C230%2C278%2C164%2C177" data-ca-dialog-title="Быстрый просмотр товаров" rel="nofollow">Просмотр</a>
 </div><div class="button-container"><div class="cm-reload-64000164 " id="add_to_cart_update_64000164">
 <input type="hidden" name="appearance[show_add_to_cart]" value="1" />
 <input type="hidden" name="appearance[show_list_buttons]" value="" />
@@ -991,7 +991,7 @@ a:2:{s:4:"data";a:2:{s:10:"javascript";s:161:"<script src="http://cscart/js/tygh
 
 <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://cscart/" method="post" name="product_form_64000177" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
 <input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
-<input type="hidden" name="redirect_url" value="index.php?currency=RUB" />
+<input type="hidden" name="redirect_url" value="index.php" />
 <input type="hidden" name="product_data[177][product_id]" value="177" />
 <div class="ty-grid-list__image">
 
@@ -1058,7 +1058,7 @@ a:2:{s:4:"data";a:2:{s:10:"javascript";s:161:"<script src="http://cscart/js/tygh
                                                                 
     
 
-    <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="177" data-ca-target-id="product_quick_view" href="http://cscart/index.php?dispatch=products.quick_view&amp;product_id=177&amp;prev_url=index.php%3Fcurrency%3DRUB&amp;n_plain=Y&amp;n_items=150%2C181%2C231%2C282%2C230%2C278%2C164%2C177" data-ca-dialog-title="Быстрый просмотр товаров" rel="nofollow">Просмотр</a>
+    <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="177" data-ca-target-id="product_quick_view" href="http://cscart/index.php?dispatch=products.quick_view&amp;product_id=177&amp;prev_url=index.php&amp;n_plain=Y&amp;n_items=150%2C181%2C231%2C282%2C230%2C278%2C164%2C177" data-ca-dialog-title="Быстрый просмотр товаров" rel="nofollow">Просмотр</a>
 </div><div class="button-container"><div class="cm-reload-64000177 " id="add_to_cart_update_64000177">
 <input type="hidden" name="appearance[show_add_to_cart]" value="1" />
 <input type="hidden" name="appearance[show_list_buttons]" value="" />

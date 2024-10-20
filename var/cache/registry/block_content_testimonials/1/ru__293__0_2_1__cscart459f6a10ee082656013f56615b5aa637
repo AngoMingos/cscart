@@ -60,12 +60,7 @@ a:2:{s:4:"data";a:2:{s:10:"javascript";s:2034:"<script>
         }
     });
 }(Tygh, Tygh.$));
-</script>";s:7:"content";s:10467:"        <div class="ty-mainbox-simple-container clearfix">
-                    <h2 class="ty-mainbox-simple-title">
-                                                    Отзывы
-                                
-            </h2>
-                <div class="ty-mainbox-simple-body">
+</script>";s:7:"content";s:10198:"                    
 
 
     <div class="owl-theme ty-owl-controls">
@@ -269,6 +264,5 @@ a:2:{s:4:"data";a:2:{s:10:"javascript";s:2034:"<script>
 
 <!-- Inline script moved to the bottom of the page -->
 
-</div>
-    </div>
-";}s:6:"expiry";i:0;}
+
+            ";}s:6:"expiry";i:0;}
