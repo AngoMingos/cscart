@@ -1,6 +1,87 @@
 /* ==========================================================================
 My Design
 ========================================================================== */
+/* Header */
+
+@font-face {
+    font-family: 'icomoon';
+    src:url('../media/fonts/icomoon.eot');
+    src:url('../media/fonts/icomoon.eot?#iefix') format('embedded-opentype'),
+    url('../media/fonts/icomoon.woff') format('woff'),
+    url('../media/fonts/icomoon.ttf') format('truetype'),
+    url('../media/fonts/icomoon.svg#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Use the following CSS code if you want to use data attributes for inserting your icons */
+[data-icon]:before {
+    font-family: 'icomoon';
+    content: attr(data-icon);
+    speak: none;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* смена иконок */
+[class*="ty-icon-"]:before {
+  font-family: inherit;
+}
+.ty-icon.ty-icon-cart.ty-minicart__icon.empty{
+    font-family: 'icomoon';
+    color: black;
+}
+.ty-icon.ty-icon-cart.ty-minicart__icon.empty::before{
+ content: "\e903";
+}
+.ty-icon.ty-icon-user{
+    font-family: 'icomoon';
+    color: black;
+}
+.ty-icon.ty-icon-user::before{
+    content: "\e901";
+}
+.ty-icon-location-arrow{
+    font-family: 'icomoon';
+    color: black;
+}
+.ty-icon-location-arrow::before{
+    content: "\e904";
+    color: #006FE7;
+}
+.ty-icon.ty-icon-search{
+    font-family: 'icomoon';
+    color: black;
+}
+.ty-icon.ty-icon-search:before{
+    content: "\e902";
+}
+.owl-theme .owl-controls .owl-buttons div {
+    color: #FFFFFF;
+    display: inline-block;
+    margin: 5px;
+    padding: 3px 10px;
+    font-size: 12px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 3px;
+    background: #006FE7;
+    filter: alpha(opacity = 70);
+    opacity: 0.7;
+}
+/* смена иконок */
+
+.top-quick-links a {
+    color: #000;
+    }
+    .ty-dropdown-box__title {
+    padding: 11px 1px 1px 1px;
+    }
 .ty-mainbox-simple-title {
     margin-bottom: 10px;
 }
@@ -11,10 +92,30 @@ My Design
     display: inline-block;
     background-size: contain;
 }
+.bm-block-manager__block-content.clearfix{
+    font-size: 20px;
+    font-weight: 700;
+}
+a.ty-menu__item-link{
+    color: #000;
+}
 .ty-menu__items {
     background: #006FE7;
     position: relative;
-    border-radius: 24px;
+    border-radius: 24px ;
+    border: 1px solid #000000;
+
+}
+.cell_phone{
+    font-weight: bold;
+    color: red;
+}
+.ty-search-block{
+    border-radius: 3px;
+}
+.ty-menu__item .ty-menu__item-link {
+    text-transform: uppercase;
+    padding-left: 40px;
 }
 
 /* /My Design */
