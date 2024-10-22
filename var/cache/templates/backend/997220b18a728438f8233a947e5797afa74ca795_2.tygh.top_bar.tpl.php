@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-15 19:03:34
+/* Smarty version 4.3.0, created on 2024-10-22 18:12:36
   from 'D:\OSPanel\domains\cscart\design\backend\templates\top_bar.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_670e9256b774a8_97588334',
+  'unifunc' => 'content_6717c0e4c785b0_43566610',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -26,7 +26,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'tygh:components/menu/user_menu.tpl' => 1,
   ),
 ),false)) {
-function content_670e9256b774a8_97588334 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6717c0e4c785b0_43566610 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\block.hook.php','function'=>'smarty_block_hook',),));
 $_smarty_tpl->_assignInScope('scroll_header', (($tmp = $_smarty_tpl->tpl_vars['config']->value['scroll_header'] ?? null)===null||$tmp==='' ? false ?? null : $tmp));?>
 <div class="top-bar <?php if ($_smarty_tpl->tpl_vars['scroll_header']->value) {?>top-bar--scroll-header<?php }?>" id="top_bar">

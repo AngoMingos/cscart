@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-15 19:03:38
+/* Smarty version 4.3.0, created on 2024-10-22 18:12:41
   from 'D:\OSPanel\domains\cscart\design\backend\templates\addons\call_requests\hooks\index\scripts.post.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_670e925aee0211_75800691',
+  'unifunc' => 'content_6717c0e90893c1_17680143',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_670e925aee0211_75800691 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6717c0e90893c1_17680143 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\function.script.php','function'=>'smarty_function_script',),1=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\block.inline_script.php','function'=>'smarty_block_inline_script',),));
 echo smarty_function_script(array('src'=>"js/addons/call_requests/index.js"),$_smarty_tpl);?>
 

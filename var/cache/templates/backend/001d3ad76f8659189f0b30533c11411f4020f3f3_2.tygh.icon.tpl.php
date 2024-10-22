@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-15 19:03:31
+/* Smarty version 4.3.0, created on 2024-10-22 18:12:32
   from 'D:\OSPanel\domains\cscart\design\backend\templates\common\icon.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_670e9253116d45_59438907',
+  'unifunc' => 'content_6717c0e0de8b16_90469973',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'tygh:components/icons/get_fallback_source.tpl' => 1,
   ),
 ),false)) {
-function content_670e9253116d45_59438907 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6717c0e0de8b16_90469973 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\modifier.in_array.php','function'=>'smarty_modifier_in_array',),1=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\function.include_ext.php','function'=>'smarty_function_include_ext',),2=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\lib\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.replace.php','function'=>'smarty_modifier_replace',),));
 $_smarty_tpl->_subTemplateRender("tygh:components/icons/get_fallback_source.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array('class'=>$_smarty_tpl->tpl_vars['class']->value,'source'=>$_smarty_tpl->tpl_vars['source']->value), 0, false);
 $_smarty_tpl->_assignInScope('show_icon', $_smarty_tpl->tpl_vars['show_icon']->value === false ? false : (($tmp = $_smarty_tpl->tpl_vars['show_icon']->value ?? null)===null||$tmp==='' ? true ?? null : $tmp));

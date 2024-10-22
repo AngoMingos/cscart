@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-15 19:03:32
+/* Smarty version 4.3.0, created on 2024-10-22 18:12:34
   from 'D:\OSPanel\domains\cscart\design\backend\templates\common\notify_checkboxes.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_670e92544c4215_17112071',
+  'unifunc' => 'content_6717c0e2529b20_28688785',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_670e92544c4215_17112071 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6717c0e2529b20_28688785 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\block.hook.php','function'=>'smarty_block_hook',),1=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\modifier.enum.php','function'=>'smarty_modifier_enum',),));
 \Tygh\Languages\Helper::preloadLangVars(array('notify_customer','notify_orders_department','notify_vendor'));
 $_smarty_tpl->smarty->_cache['_tag_stack'][] = array('hook', array('name'=>"select_popup:notify_checkboxes"));

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-15 19:03:35
+/* Smarty version 4.3.0, created on 2024-10-22 18:12:37
   from 'D:\OSPanel\domains\cscart\design\backend\templates\addons\help_center\component\help_center_sections_injection.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_670e9257816261_18901141',
+  'unifunc' => 'content_6717c0e57d1b15_38068583',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_670e9257816261_18901141 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6717c0e57d1b15_38068583 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\modifier.enum.php','function'=>'smarty_modifier_enum',),1=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\modifier.count.php','function'=>'smarty_modifier_count',),));
 \Tygh\Languages\Helper::preloadLangVars(array('help_center.ask','help_center.customer_care.submit_ticket','help_center.customer_care.view_all_tickets','help_center.customer_care.status.resolved','help_center.customer_care.status.open','help_center.customer_care','help_center.customer_care.no_support_tickets','help_center.customer_care.submit_ticket','help_center.customer_care.view_all_tickets','help_center.customer_care.service_unavailable','help_center.customer_care.service_unavailable_description','help_center.customer_care.prolong_subscription','help_center.customer_care','help_center.customer_care.sign_in_text','helpdesk_account.sign_in'));
 $_smarty_tpl->_assignInScope('sections_injection', array());

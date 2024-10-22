@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-15 19:03:38
+/* Smarty version 4.3.0, created on 2024-10-22 18:12:40
   from 'D:\OSPanel\domains\cscart\design\backend\templates\addons\geo_maps\hooks\index\scripts.post.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_670e925aade2b5_43234554',
+  'unifunc' => 'content_6717c0e8b6bf89_03646392',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'tygh:addons/geo_maps/components/scripts.tpl' => 1,
   ),
 ),false)) {
-function content_670e925aade2b5_43234554 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6717c0e8b6bf89_03646392 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_subTemplateRender("tygh:addons/geo_maps/components/scripts.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0, false);
 }
 }

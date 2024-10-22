@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-15 19:03:32
+/* Smarty version 4.3.0, created on 2024-10-22 18:12:34
   from 'D:\OSPanel\domains\cscart\design\backend\templates\views\themes\components\logo_item.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_670e925484e1a6_36078215',
+  'unifunc' => 'content_6717c0e28daf42_95549947',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'tygh:common/fileuploader.tpl' => 1,
   ),
 ),false)) {
-function content_670e925484e1a6_36078215 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6717c0e28daf42_95549947 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\function.include_ext.php','function'=>'smarty_function_include_ext',),));
 \Tygh\Languages\Helper::preloadLangVars(array('logo_section.','no_image','alt_text'));
 $_smarty_tpl->_assignInScope('id', (($tmp = $_smarty_tpl->tpl_vars['logo']->value['logo_id'] ?? null)===null||$tmp==='' ? 0 ?? null : $tmp));

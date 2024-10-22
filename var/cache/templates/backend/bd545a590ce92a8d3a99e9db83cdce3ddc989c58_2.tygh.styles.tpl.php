@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-15 19:03:26
+/* Smarty version 4.3.0, created on 2024-10-22 18:12:28
   from 'D:\OSPanel\domains\cscart\design\backend\templates\common\styles.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_670e924e2dd273_21883700',
+  'unifunc' => 'content_6717c0dc050945_50862393',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -22,13 +22,13 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'tygh:views/statuses/components/styles.tpl' => 1,
   ),
 ),false)) {
-function content_670e924e2dd273_21883700 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6717c0dc050945_50862393 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
   'get_tygh_style_contents' => 
   array (
     'compiled_filepath' => 'D:\\OSPanel\\domains\\cscart\\var\\cache\\templates\\backend\\bd545a590ce92a8d3a99e9db83cdce3ddc989c58_2.tygh.styles.tpl.php',
     'uid' => 'bd545a590ce92a8d3a99e9db83cdce3ddc989c58',
-    'call_name' => 'smarty_template_function_get_tygh_style_contents_337475698670e924e2aae36_29162581',
+    'call_name' => 'smarty_template_function_get_tygh_style_contents_3338650406717c0dc01bc08_20585410',
   ),
 ));
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\modifier.enum.php','function'=>'smarty_modifier_enum',),1=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\block.styles.php','function'=>'smarty_block_styles',),));
@@ -90,9 +90,9 @@ echo smarty_block_styles(array(), ob_get_clean(), $_smarty_tpl, $_block_repeat);
 array_pop($_smarty_tpl->smarty->_cache['_tag_stack']);
 }
 }
-/* smarty_template_function_get_tygh_style_contents_337475698670e924e2aae36_29162581 */
-if (!function_exists('smarty_template_function_get_tygh_style_contents_337475698670e924e2aae36_29162581')) {
-function smarty_template_function_get_tygh_style_contents_337475698670e924e2aae36_29162581(Smarty_Internal_Template $_smarty_tpl,$params) {
+/* smarty_template_function_get_tygh_style_contents_3338650406717c0dc01bc08_20585410 */
+if (!function_exists('smarty_template_function_get_tygh_style_contents_3338650406717c0dc01bc08_20585410')) {
+function smarty_template_function_get_tygh_style_contents_3338650406717c0dc01bc08_20585410(Smarty_Internal_Template $_smarty_tpl,$params) {
 foreach ($params as $key => $value) {
 $_smarty_tpl->tpl_vars[$key] = new Smarty_Variable($value, $_smarty_tpl->isRenderingCache);
 }
@@ -151,5 +151,5 @@ array_pop($_smarty_tpl->smarty->_cache['_tag_stack']);?>
         <?php }?>
     <?php }
 }}
-/*/ smarty_template_function_get_tygh_style_contents_337475698670e924e2aae36_29162581 */
+/*/ smarty_template_function_get_tygh_style_contents_3338650406717c0dc01bc08_20585410 */
 }

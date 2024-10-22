@@ -20,6 +20,7 @@
                 {/if}
             {/hook}
         </a>
+        
         </div>
         <div id="dropdown_{$dropdown_id}" class="cm-popup-box ty-dropdown-box__content ty-dropdown-box__content--cart hidden">
             {hook name="checkout:minicart"}
@@ -82,3 +83,4 @@
         </div>
     <!--cart_status_{$dropdown_id}--></div>
 {/hook}
+

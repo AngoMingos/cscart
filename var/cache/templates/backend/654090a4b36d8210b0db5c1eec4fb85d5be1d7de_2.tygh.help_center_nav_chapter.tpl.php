@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-15 19:03:35
+/* Smarty version 4.3.0, created on 2024-10-22 18:12:37
   from 'D:\OSPanel\domains\cscart\design\backend\templates\addons\help_center\templates\help_center_nav_chapter.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_670e92575ea888_02317607',
+  'unifunc' => 'content_6717c0e5675e41_93295201',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_670e92575ea888_02317607 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6717c0e5675e41_93295201 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 
     <?php echo '<script'; ?>

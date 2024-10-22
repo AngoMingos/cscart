@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-15 19:03:27
+/* Smarty version 4.3.0, created on 2024-10-22 18:12:29
   from 'D:\OSPanel\domains\cscart\design\backend\templates\buttons\helpers.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_670e924fefa689_02839841',
+  'unifunc' => 'content_6717c0ddd28696_38593033',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,19 +20,19 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_670e924fefa689_02839841 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6717c0ddd28696_38593033 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
   'btn' => 
   array (
     'compiled_filepath' => 'D:\\OSPanel\\domains\\cscart\\var\\cache\\templates\\backend\\6d2437b4707a357bffe0de1889f8d91d9ea9b8a6_2.tygh.helpers.tpl.php',
     'uid' => '6d2437b4707a357bffe0de1889f8d91d9ea9b8a6',
-    'call_name' => 'smarty_template_function_btn_1662462336670e924fe9c6a5_50375179',
+    'call_name' => 'smarty_template_function_btn_19657200996717c0ddcd1b95_84783046',
   ),
   'dropdown' => 
   array (
     'compiled_filepath' => 'D:\\OSPanel\\domains\\cscart\\var\\cache\\templates\\backend\\6d2437b4707a357bffe0de1889f8d91d9ea9b8a6_2.tygh.helpers.tpl.php',
     'uid' => '6d2437b4707a357bffe0de1889f8d91d9ea9b8a6',
-    'call_name' => 'smarty_template_function_dropdown_1662462336670e924fe9c6a5_50375179',
+    'call_name' => 'smarty_template_function_dropdown_19657200996717c0ddcd1b95_84783046',
   ),
 ));
 ?>
@@ -40,9 +40,9 @@ $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, arra
 
 <?php }
 \Tygh\Languages\Helper::preloadLangVars(array('delete_selected','delete','tools'));
-/* smarty_template_function_btn_1662462336670e924fe9c6a5_50375179 */
-if (!function_exists('smarty_template_function_btn_1662462336670e924fe9c6a5_50375179')) {
-function smarty_template_function_btn_1662462336670e924fe9c6a5_50375179(Smarty_Internal_Template $_smarty_tpl,$params) {
+/* smarty_template_function_btn_19657200996717c0ddcd1b95_84783046 */
+if (!function_exists('smarty_template_function_btn_19657200996717c0ddcd1b95_84783046')) {
+function smarty_template_function_btn_19657200996717c0ddcd1b95_84783046(Smarty_Internal_Template $_smarty_tpl,$params) {
 $params = array_merge(array('text'=>'','href'=>'','title'=>'','onclick'=>'','target'=>'','class'=>'','data'=>array(),'form'=>'','method'=>'','raw'=>false), $params);
 foreach ($params as $key => $value) {
 $_smarty_tpl->tpl_vars[$key] = new Smarty_Variable($value, $_smarty_tpl->isRenderingCache);
@@ -217,10 +217,10 @@ if (!$_smarty_tpl->tpl_vars['hide_clone']->value) {?><li><?php $_smarty_tpl->sma
 
     <?php }
 }}
-/*/ smarty_template_function_btn_1662462336670e924fe9c6a5_50375179 */
-/* smarty_template_function_dropdown_1662462336670e924fe9c6a5_50375179 */
-if (!function_exists('smarty_template_function_dropdown_1662462336670e924fe9c6a5_50375179')) {
-function smarty_template_function_dropdown_1662462336670e924fe9c6a5_50375179(Smarty_Internal_Template $_smarty_tpl,$params) {
+/*/ smarty_template_function_btn_19657200996717c0ddcd1b95_84783046 */
+/* smarty_template_function_dropdown_19657200996717c0ddcd1b95_84783046 */
+if (!function_exists('smarty_template_function_dropdown_19657200996717c0ddcd1b95_84783046')) {
+function smarty_template_function_dropdown_19657200996717c0ddcd1b95_84783046(Smarty_Internal_Template $_smarty_tpl,$params) {
 $params = array_merge(array('text'=>'','title'=>'','class'=>'','content'=>'','icon'=>'','no_caret'=>false,'placement'=>"left"), $params);
 foreach ($params as $key => $value) {
 $_smarty_tpl->tpl_vars[$key] = new Smarty_Variable($value, $_smarty_tpl->isRenderingCache);
@@ -255,5 +255,5 @@ $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart
         </div>
     <?php }
 }}
-/*/ smarty_template_function_dropdown_1662462336670e924fe9c6a5_50375179 */
+/*/ smarty_template_function_dropdown_19657200996717c0ddcd1b95_84783046 */
 }

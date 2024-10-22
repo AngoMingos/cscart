@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-15 19:03:34
+/* Smarty version 4.3.0, created on 2024-10-22 18:12:37
   from 'D:\OSPanel\domains\cscart\design\backend\templates\components\menu\storefront_menu.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_670e9256ed8026_38007771',
+  'unifunc' => 'content_6717c0e5089f22_24741449',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_670e9256ed8026_38007771 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6717c0e5089f22_24741449 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\function.include_ext.php','function'=>'smarty_function_include_ext',),));
 $_smarty_tpl->_assignInScope('storefront_status_icon', '');
 $_smarty_tpl->_assignInScope('storefront_url', '');

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-15 19:03:37
+/* Smarty version 4.3.0, created on 2024-10-22 18:12:39
   from 'D:\OSPanel\domains\cscart\design\backend\templates\views\block_manager\frontend_render\block.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_670e92592a0740_54513248',
+  'unifunc' => 'content_6717c0e7227485_19473530',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'backend:views/block_manager/frontend_render/components/block_menu.tpl' => 1,
   ),
 ),false)) {
-function content_670e92592a0740_54513248 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6717c0e7227485_19473530 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\modifier.trim.php','function'=>'smarty_modifier_trim',),));
 if (smarty_modifier_trim($_smarty_tpl->tpl_vars['content']->value)) {?>
     <?php if ($_smarty_tpl->tpl_vars['runtime']->value['customization_mode']['block_manager'] && $_smarty_tpl->tpl_vars['location_data']->value['is_frontend_editing_allowed']) {?>

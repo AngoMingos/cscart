@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-15 19:03:38
+/* Smarty version 4.3.0, created on 2024-10-22 18:12:41
   from 'D:\OSPanel\domains\cscart\design\backend\templates\addons\seo\hooks\index\scripts.post.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_670e925ae929c9_94852661',
+  'unifunc' => 'content_6717c0e90348f8_11217517',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_670e925ae929c9_94852661 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6717c0e90348f8_11217517 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\function.script.php','function'=>'smarty_function_script',),));
 echo smarty_function_script(array('src'=>"js/addons/seo/func.js"),$_smarty_tpl);
 }

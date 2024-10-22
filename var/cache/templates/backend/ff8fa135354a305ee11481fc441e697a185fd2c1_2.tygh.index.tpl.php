@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-15 19:03:25
+/* Smarty version 4.3.0, created on 2024-10-22 18:12:27
   from 'D:\OSPanel\domains\cscart\design\backend\templates\index.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_670e924dde9665_63901815',
+  'unifunc' => 'content_6717c0dbb2e6a6_12137157',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -32,7 +32,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'tygh:common/scripts.tpl' => 1,
   ),
 ),false)) {
-function content_670e924dde9665_63901815 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6717c0dbb2e6a6_12137157 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\block.hook.php','function'=>'smarty_block_hook',),1=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\modifier.enum.php','function'=>'smarty_modifier_enum',),2=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\modifier.render_tag_attrs.php','function'=>'smarty_modifier_render_tag_attrs',),));
 \Tygh\Languages\Helper::preloadLangVars(array('admin_panel'));
 $_smarty_tpl->_assignInScope('html_class', '');

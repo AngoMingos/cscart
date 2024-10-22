@@ -1,1 +1,0 @@
-<link rel="stylesheet" href="{$smarty.server.HTTP_BASE}design/themes/responsive_clone/media/css/styles.less">
