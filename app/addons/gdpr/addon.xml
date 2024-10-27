@@ -13,7 +13,7 @@
                 <items>
                     <item id="gdpr_cookie_consent">
                         <type>selectbox</type>
-                        <default_value>implicit</default_value>
+                        <default_value>explicit</default_value>
                         <variants>
                             <item id="none">
                             </item>

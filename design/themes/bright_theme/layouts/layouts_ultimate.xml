@@ -4,7 +4,7 @@
         <default_language>en</default_language>
     </settings>
     <layout edition="ULTIMATE">
-        <name>Основной</name>
+        <name>Main</name>
         <is_default>1</is_default>
         <width>16</width>
         <layout_width>fluid</layout_width>
@@ -38,6 +38,7 @@
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Языки]]></translation>
+                                <translation lang_code="el"><![CDATA[Γλώσσες]]></translation>
                             </translations>
                             <contents />
                         </block>
@@ -62,12 +63,13 @@
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Валюта]]></translation>
+                                <translation lang_code="el"><![CDATA[Ισοτιμίες]]></translation>
                             </translations>
                             <contents />
                         </block>
                     </blocks>
                 </grid>
-                <grid width="8" user_class="top-links-grid" linked_to_default="Y" status="A" offset="0" omega="0" alpha="0" wrapper="" content_align="LEFT" html_element="div" clear="0">
+                <grid width="11" user_class="top-links-grid" linked_to_default="Y" status="A" offset="0" omega="0" alpha="0" wrapper="" content_align="LEFT" html_element="div" clear="0">
                     <blocks>
                         <block>
                             <type><![CDATA[menu]]></type>
@@ -103,30 +105,6 @@
                         </block>
                     </blocks>
                 </grid>
-                <grid width="3" user_class="top-links-grid" linked_to_default="Y" status="A" offset="0" omega="0" alpha="0" wrapper="" content_align="RIGHT" html_element="div" clear="0">
-                    <blocks>
-                        <block>
-                            <type><![CDATA[geo_maps_customer_location]]></type>
-                            <properties>
-                                <template><![CDATA[addons/geo_maps/blocks/customer_location.tpl]]></template>
-                            </properties>
-                            <lang_code><![CDATA[en]]></lang_code>
-                            <name><![CDATA[Customer location]]></name>
-                            <object_id><![CDATA[0]]></object_id>
-                            <object_type><![CDATA[]]></object_type>
-                            <content><![CDATA[]]></content>
-                            <object_ids><![CDATA[]]></object_ids>
-                            <wrapper><![CDATA[]]></wrapper>
-                            <user_class><![CDATA[]]></user_class>
-                            <order><![CDATA[0]]></order>
-                            <status><![CDATA[A]]></status>
-                            <translations>
-                                <translation lang_code="ru"><![CDATA[Местоположение покупателя]]></translation>
-                            </translations>
-                            <contents/>
-                        </block>
-                    </blocks>
-                </grid>
                 <grid width="2" user_class="top-links-grid" linked_to_default="Y" status="A" offset="0" omega="1" alpha="0" wrapper="" content_align="RIGHT" html_element="div" clear="1">
                     <blocks>
                         <block>
@@ -146,6 +124,7 @@
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Мой профиль]]></translation>
+                                <translation lang_code="el"><![CDATA[Ο Λογαριασμός μου]]></translation>
                             </translations>
                             <contents />
                         </block>
@@ -179,28 +158,28 @@
                     </blocks>
                 </grid>
                 <grid width="5" user_class="ty-cr-content-grid" linked_to_default="Y" status="A" offset="0" omega="0" alpha="0" wrapper="" content_align="FULL_WIDTH" html_element="div" clear="0">
-                    <blocks>
-                        <block>
-                            <type><![CDATA[call_request]]></type>
-                            <properties>
-                                <template><![CDATA[addons/call_requests/blocks/call_request.tpl]]></template>
-                            </properties>
-                            <lang_code><![CDATA[en]]></lang_code>
-                            <name><![CDATA[Call Request]]></name>
-                            <object_id><![CDATA[0]]></object_id>
-                            <object_type><![CDATA[]]></object_type>
-                            <content><![CDATA[]]></content>
-                            <object_ids><![CDATA[]]></object_ids>
-                            <wrapper><![CDATA[]]></wrapper>
-                            <user_class><![CDATA[]]></user_class>
-                            <order><![CDATA[0]]></order>
-                            <status><![CDATA[A]]></status>
-                            <translations>
-                                <translation lang_code="ru"><![CDATA[Обратный звонок]]></translation>
-                            </translations>
-                            <contents/>
-                        </block>
-                    </blocks>
+                  <blocks>
+                    <block>
+                      <type><![CDATA[call_request]]></type>
+                      <properties>
+                        <template><![CDATA[addons/call_requests/blocks/call_request.tpl]]></template>
+                      </properties>
+                      <lang_code><![CDATA[en]]></lang_code>
+                      <name><![CDATA[Call Request]]></name>
+                      <object_id><![CDATA[0]]></object_id>
+                      <object_type><![CDATA[]]></object_type>
+                      <content><![CDATA[]]></content>
+                      <object_ids><![CDATA[]]></object_ids>
+                      <wrapper><![CDATA[]]></wrapper>
+                      <user_class><![CDATA[]]></user_class>
+                      <order><![CDATA[0]]></order>
+                      <status><![CDATA[A]]></status>
+                      <translations>
+                        <translation lang_code="ru"><![CDATA[Обратный звонок]]></translation>
+                      </translations>
+                      <contents/>
+                    </block>
+                  </blocks>
                 </grid>
                 <grid width="8" user_class="" linked_to_default="Y" status="A" offset="0" omega="1" alpha="0" wrapper="" content_align="FULL_WIDTH" html_element="div" clear="1">
                     <grid width="4" user_class="search-block-grid" linked_to_default="Y" status="A" offset="0" omega="0" alpha="1" wrapper="" content_align="FULL_WIDTH" html_element="div" clear="0">
@@ -222,6 +201,7 @@
                                 <status><![CDATA[A]]></status>
                                 <translations>
                                     <translation lang_code="ru"><![CDATA[Поиск]]></translation>
+                                    <translation lang_code="el"><![CDATA[Αναζήτηση]]></translation>
                                 </translations>
                                 <contents />
                             </block>
@@ -250,6 +230,7 @@
                                 <status><![CDATA[A]]></status>
                                 <translations>
                                     <translation lang_code="ru"><![CDATA[Корзина]]></translation>
+                                    <translation lang_code="el"><![CDATA[Περιεχόμενο Καλαθιού]]></translation>
                                 </translations>
                                 <contents />
                             </block>
@@ -383,20 +364,21 @@
                                     <content><![CDATA[<div class="ty-social-link-block"><h3 class="ty-social-link__title">{__("get_social")}</h3>
 
 <div class="ty-social-link facebook">
-    <a target="_blank" href="https://www.facebook.com/CSCartRu"><span class="ty-icon ty-icon-facebook ty-icon-moon-facebook"></span></a>
+    <a href="http://www.facebook.com/pages/CS-Cart/156687676230"><span class="ty-icon ty-icon-facebook ty-icon-moon-facebook"></span></a>
 </div>
 
 <div class="ty-social-link instagram">
-    <a target="_blank" href="https://www.instagram.com"><span class="ty-icon ty-icon-instagram ty-icon-moon-instagram"></span></a>
+    <a href="https://www.instagram.com"><span class="ty-icon ty-icon-instagram ty-icon-moon-instagram"></span></a>
 </div>
 
 <div class="ty-social-link twitter">
-    <a  target="_blank" href="http://vk.com"><span class="ty-icon ty-icon-twitter ty-icon-moon-vk"></span></a>
+    <a href="https://twitter.com/cscart"><span class="ty-icon ty-icon-twitter ty-icon-moon-twitter"></span></a>
 </div>
 
 <div class="ty-social-link youtube">
-    <a target="_blank" href="https://www.youtube.com/channel/UC5hI_lecNxdp1UfLR2GZ4iQ"><span class="ty-icon ty-icon-youtube ty-icon-moon-youtube"></span></a>
-</div></div>]]></content>
+    <a href="https://www.youtube.com/user/cscartvideos"><span class="ty-icon ty-icon-youtube ty-icon-moon-youtube"></span></a>
+</div></div>
+]]></content>
                                 </content>
                                 <object_ids><![CDATA[]]></object_ids>
                                 <wrapper><![CDATA[]]></wrapper>
@@ -415,19 +397,19 @@
                                             <content><![CDATA[<div class="ty-social-link-block"><h3 class="ty-social-link__title">{__("get_social")}</h3>
 
 <div class="ty-social-link facebook">
-    <a target="_blank" href="https://www.facebook.com/CSCartRu"><span class="ty-icon ty-icon-facebook ty-icon-moon-facebook"></span></a>
+    <a href="http://www.facebook.com/pages/CS-Cart/156687676230"><span class="ty-icon ty-icon-facebook ty-icon-moon-facebook"></span></a>
 </div>
 
 <div class="ty-social-link instagram">
-    <a target="_blank" href="https://www.instagram.com"><span class="ty-icon ty-icon-instagram ty-icon-moon-instagram"></span></a>
+    <a href="https://www.instagram.com"><span class="ty-icon ty-icon-instagram ty-icon-moon-instagram"></span></a>
 </div>
 
 <div class="ty-social-link twitter">
-    <a  target="_blank" href="http://vk.com"><span class="ty-icon ty-icon-twitter ty-icon-moon-vk"></span></a>
+    <a href="https://twitter.com/cscart"><span class="ty-icon ty-icon-twitter ty-icon-moon-twitter"></span></a>
 </div>
 
 <div class="ty-social-link youtube">
-    <a target="_blank" href="https://www.youtube.com/channel/UC5hI_lecNxdp1UfLR2GZ4iQ"><span class="ty-icon ty-icon-youtube ty-icon-moon-youtube"></span></a>
+    <a href="https://www.youtube.com/user/cscartvideos"><span class="ty-icon ty-icon-youtube ty-icon-moon-youtube"></span></a>
 </div></div>]]></content>
                                         </content>
                                     </item>
@@ -445,7 +427,7 @@
                                     <template><![CDATA[blocks/static_templates/my_account_links_advanced.tpl]]></template>
                                 </properties>
                                 <lang_code><![CDATA[en]]></lang_code>
-                                <name><![CDATA[Bottom my account]]></name>
+                                <name><![CDATA[My account]]></name>
                                 <object_id><![CDATA[0]]></object_id>
                                 <object_type><![CDATA[]]></object_type>
                                 <content><![CDATA[]]></content>
@@ -456,6 +438,7 @@
                                 <status><![CDATA[A]]></status>
                                 <translations>
                                     <translation lang_code="ru"><![CDATA[Кабинет покупателя]]></translation>
+                                    <translation lang_code="el"><![CDATA[Συνδεση Λογαριασμου​]]></translation>
                                 </translations>
                                 <contents />
                             </block>
@@ -519,6 +502,7 @@
                                 <status><![CDATA[A]]></status>
                                 <translations>
                                     <translation lang_code="ru"><![CDATA[Оформление заказа]]></translation>
+                                    <translation lang_code="el"><![CDATA[Οι Παραγγελίες​ σας]]></translation>
                                 </translations>
                                 <contents>
                                     <item>
@@ -546,14 +530,14 @@
                                 <object_type><![CDATA[]]></object_type>
                                 <content>
                                     <content><![CDATA[<ul>
-    <li>Apt. 1, the 1st Dubrovskaya St., office 100<br/>Moscow, Russia
+    <li>3993 Hanover Street<br/>New York, NY 10016
 </li>
-    <li><bdi>8-800-0000-00-00</bdi> (call is free)</li>
-    <li><bdi>10:00 — 18:00</bdi> (Moscow time)<br/>
-Monday — Friday</li>
+    <li><bdi>+19177227425</bdi> (call is free)</li>
+    <li><bdi>10 am — 6 pm</bdi><br/>
+Monday - Friday</li>
     <li><a class="ty-exception__links-a greeny" href="mailto:sales@example.com">sales@example.com</a></li>
 
-    <li><a href="{"pages.view?page_id=20"|fn_url}" class="ty-exception__links-a">View a map</a></li>
+    <li><a href="{"pages.view?page_id=20"|fn_url}" class="ty-exception__links-a">About company</a></li>
 
 </ul>
 
@@ -566,6 +550,7 @@ Monday — Friday</li>
                                 <status><![CDATA[A]]></status>
                                 <translations>
                                     <translation lang_code="ru"><![CDATA[Контакты]]></translation>
+                                    <translation lang_code="el"><![CDATA[Η Εταιρεία​]]></translation>
                                 </translations>
                                 <contents>
                                     <item>
@@ -574,12 +559,13 @@ Monday — Friday</li>
                                         <lang_code><![CDATA[ru]]></lang_code>
                                         <content>
                                             <content><![CDATA[<ul>
-    <li>г. Москва, ул. 1-я Дубровская, д.1, офис 100</li>
-    <li><bdi>8-800-000-00-00</bdi> (звонок бесплатный)</li>
-    <li><bdi>Пн-Пт 9.00 - 18.00</bdi></li>
+    <li>3993 Hanover Street<br/>New York, NY 10016
+</li>
+    <li><bdi>+19177227425 (звонок бесплатный)</bdi></li>
+    <li><bdi>Пн-Пт 10.00 - 18.00</bdi></li>
     <li><a class="ty-exception__links-a greeny" href="mailto:sales@example.com">sales@example.com</a></li>
 
-    <li><a href="{"pages.view?page_id=20"|fn_url}" class="ty-exception__links-a">Посмотреть на карте</a></li>
+    <li><a href="{"pages.view?page_id=20"|fn_url}" class="ty-exception__links-a">О компании</a></li>
 
 </ul>
 
@@ -623,7 +609,7 @@ Monday — Friday</li>
                             <block>
                                 <type><![CDATA[template]]></type>
                                 <properties>
-                                    <template><![CDATA[blocks/static_templates/payment_icons_rus.tpl]]></template>
+                                    <template><![CDATA[blocks/static_templates/payment_icons.tpl]]></template>
                                 </properties>
                                 <lang_code><![CDATA[en]]></lang_code>
                                 <name><![CDATA[Payment icons]]></name>
@@ -654,7 +640,7 @@ Monday — Friday</li>
             </translation>
         </translations>
     </location>
-    <location dispatch="index.index" is_default="0" layout_id="1" object_ids="" custom_html="" position="20" lang_code="en" name="Homepage" title="Демо магазин" meta_description="Попробуйте CS-Cart, не устанавливая!" meta_keywords="Интернет магазин, программное обеспечение для электронной коммерции">
+    <location dispatch="index.index" is_default="0" layout_id="1" object_ids="" custom_html="" position="20" lang_code="en" name="Homepage" title="Shopping Cart Software &amp; Ecommerce Software Solutions by CS-Cart" meta_description="Secure and full-featured Online Shopping Cart Software with the complete set of powerful ecommerce options to create your own online store with minimum efforts involved." meta_keywords="shopping cart, software, ecommerce software, online store">
         <containers>
             <container container_id="45" location_id="12" position="TOP_PANEL" width="16" user_class="" linked_to_default="Y" status="A"/>
             <container container_id="46" location_id="12" position="HEADER" width="16" user_class="" linked_to_default="Y" status="A"/>
@@ -675,8 +661,10 @@ Monday — Friday</li>
                                 <object_type><![CDATA[]]></object_type>
                                 <content>
                                     <items>
-                                        <filling><![CDATA[manually]]></filling>
-                                        <item_ids><![CDATA[16,17,18,19]]></item_ids>
+                                        <filling><![CDATA[newest]]></filling>
+                                        <period><![CDATA[A]]></period>
+                                        <last_days><![CDATA[1]]></last_days>
+                                        <limit><![CDATA[4]]></limit>
                                     </items>
                                 </content>
                                 <object_ids><![CDATA[]]></object_ids>
@@ -691,13 +679,11 @@ Monday — Friday</li>
                                     <item>
                                         <object_id><![CDATA[0]]></object_id>
                                         <object_type><![CDATA[]]></object_type>
-                                        <lang_code><![CDATA[]]></lang_code>
+                                        <lang_code><![CDATA[ru]]></lang_code>
                                         <content>
                                             <items>
-                                                <filling><![CDATA[newest]]></filling>
-                                                <period><![CDATA[A]]></period>
-                                                <last_days><![CDATA[10]]></last_days>
-                                                <limit><![CDATA[3]]></limit>
+                                                <filling><![CDATA[manually]]></filling>
+                                                <item_ids><![CDATA[16,17,18,19]]></item_ids>
                                             </items>
                                         </content>
                                     </item>
@@ -707,8 +693,10 @@ Monday — Friday</li>
                                         <lang_code><![CDATA[ru]]></lang_code>
                                         <content>
                                             <items>
-                                                <filling><![CDATA[manually]]></filling>
-                                                <item_ids><![CDATA[16,17,18,19]]></item_ids>
+                                                <filling><![CDATA[newest]]></filling>
+                                                <period><![CDATA[A]]></period>
+                                                <last_days><![CDATA[1]]></last_days>
+                                                <limit><![CDATA[4]]></limit>
                                             </items>
                                         </content>
                                     </item>
@@ -820,7 +808,7 @@ Monday — Friday</li>
                                 <items>
                                     <filling><![CDATA[newest]]></filling>
                                     <period><![CDATA[A]]></period>
-                                    <last_days><![CDATA[10]]></last_days>
+                                    <last_days><![CDATA[1]]></last_days>
                                     <limit><![CDATA[6]]></limit>
                                 </items>
                             </content>
@@ -841,7 +829,7 @@ Monday — Friday</li>
                                         <items>
                                             <filling><![CDATA[newest]]></filling>
                                             <period><![CDATA[A]]></period>
-                                            <last_days><![CDATA[10]]></last_days>
+                                            <last_days><![CDATA[1]]></last_days>
                                             <limit><![CDATA[6]]></limit>
                                         </items>
                                     </content>
@@ -874,6 +862,7 @@ Monday — Friday</li>
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Распродажа]]></translation>
+                                <translation lang_code="el"><![CDATA[Προσφορές]]></translation>
                             </translations>
                             <contents>
                                 <item>
@@ -961,6 +950,7 @@ Monday — Friday</li>
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Отзывы]]></translation>
+                                <translation lang_code="el"><![CDATA[Κριτικές]]></translation>
                             </translations>
                             <contents />
                         </block>
@@ -1189,6 +1179,7 @@ Monday — Friday</li>
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Похожие товары]]></translation>
+                                <translation lang_code="el"><![CDATA[Παρόμοια Προϊόντα]]></translation>
                             </translations>
                             <contents>
                                 <item>
@@ -1239,6 +1230,7 @@ Monday — Friday</li>
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[За ту же цену!]]></translation>
+                                <translation lang_code="el"><![CDATA[Στη ίδια ΤΙμή!]]></translation>
                             </translations>
                             <contents>
                                 <item>
@@ -1328,6 +1320,7 @@ Monday — Friday</li>
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Фильтры товаров]]></translation>
+                                <translation lang_code="el"><![CDATA[Φίλτρα Προϊόντων]]></translation>
                             </translations>
                             <contents>
                                 <item>
@@ -1366,6 +1359,7 @@ Monday — Friday</li>
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Недавно просмотренные]]></translation>
+                                <translation lang_code="el"><![CDATA[Είδατε Πρόσφατα]]></translation>
                             </translations>
                             <contents>
                                 <item>
@@ -1493,29 +1487,29 @@ Monday — Friday</li>
             </container>
             <container container_id="18" location_id="5" position="HEADER" width="16" user_class="litecheckout__header" linked_to_default="N" status="A">
                 <grid width="3" user_class="top-logo-grid" linked_to_default="N" status="A" offset="0" omega="1" alpha="1" wrapper="" content_align="FULL_WIDTH" html_element="div" clear="1">
-                <blocks>
-                    <block>
-                    <type><![CDATA[template]]></type>
-                    <properties>
-                        <template><![CDATA[blocks/static_templates/logo.tpl]]></template>
-                        <enable_link><![CDATA[N]]></enable_link>
-                    </properties>
-                    <lang_code><![CDATA[en]]></lang_code>
-                    <name><![CDATA[Logo without link]]></name>
-                    <object_id><![CDATA[0]]></object_id>
-                    <object_type><![CDATA[]]></object_type>
-                    <content><![CDATA[]]></content>
-                    <object_ids><![CDATA[]]></object_ids>
-                    <wrapper><![CDATA[]]></wrapper>
-                    <user_class><![CDATA[]]></user_class>
-                    <order><![CDATA[0]]></order>
-                    <status><![CDATA[A]]></status>
-                    <translations>
-                        <translation lang_code="ru"><![CDATA[Logo without link]]></translation>
-                    </translations>
-                    <contents/>
-                    </block>
-                </blocks>
+                    <blocks>
+                        <block>
+                            <type><![CDATA[template]]></type>
+                            <properties>
+                                <template><![CDATA[blocks/static_templates/logo.tpl]]></template>
+                                <enable_link><![CDATA[N]]></enable_link>
+                            </properties>
+                            <lang_code><![CDATA[en]]></lang_code>
+                            <name><![CDATA[Logo without link]]></name>
+                            <object_id><![CDATA[0]]></object_id>
+                            <object_type><![CDATA[]]></object_type>
+                            <content><![CDATA[]]></content>
+                            <object_ids><![CDATA[]]></object_ids>
+                            <wrapper><![CDATA[]]></wrapper>
+                            <user_class><![CDATA[]]></user_class>
+                            <order><![CDATA[0]]></order>
+                            <status><![CDATA[A]]></status>
+                            <translations>
+                                <translation lang_code="ru"><![CDATA[Logo without link]]></translation>
+                            </translations>
+                            <contents/>
+                        </block>
+                    </blocks>
                 </grid>
             </container>
             <container container_id="19" location_id="5" position="CONTENT" width="16" user_class="content-grid" linked_to_default="Y" status="A">
@@ -2028,6 +2022,7 @@ Monday — Friday</li>
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Информация для авторизации]]></translation>
+                                <translation lang_code="el"><![CDATA[Πληροφορίες Εγγραφής]]></translation>
                             </translations>
                             <contents />
                         </block>
@@ -2115,6 +2110,7 @@ Monday — Friday</li>
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Личная информация]]></translation>
+                                <translation lang_code="el"><![CDATA[Πληροφορίες Προφίλ]]></translation>
                             </translations>
                             <contents />
                         </block>
@@ -2304,6 +2300,7 @@ Monday — Friday</li>
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Мой профиль]]></translation>
+                                <translation lang_code="el"><![CDATA[Ο Λογαριασμός μου]]></translation>
                             </translations>
                             <contents />
                         </block>
@@ -2331,6 +2328,7 @@ Monday — Friday</li>
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Недавно просмотренные]]></translation>
+                                <translation lang_code="el"><![CDATA[Είδατε Πρόσφατα]]></translation>
                             </translations>
                             <contents>
                                 <item>
@@ -2384,7 +2382,7 @@ Monday — Friday</li>
             </translation>
         </translations>
     </location>
-    <location dispatch="no_page" is_default="0" layout_id="1" object_ids="" custom_html="" position="160" lang_code="en" name="404" title="&#x421;&#x442;&#x440;&#x430;&#x43D;&#x438;&#x446;&#x430; &#x43D;&#x435; &#x43D;&#x430;&#x439;&#x434;&#x435;&#x43D;&#x430;" meta_description="" meta_keywords="">
+    <location dispatch="no_page" is_default="0" layout_id="1" object_ids="" custom_html="" position="160" lang_code="en" name="404" title="Page not found" meta_description="" meta_keywords="">
         <containers>
             <container container_id="5" location_id="2" position="TOP_PANEL" width="16" user_class="" linked_to_default="Y" status="A"/>
             <container container_id="6" location_id="2" position="HEADER" width="16" user_class="" linked_to_default="Y" status="A"/>
@@ -2455,7 +2453,7 @@ Monday — Friday</li>
                         <block>
                             <type><![CDATA[product_filters]]></type>
                             <properties>
-                                <template><![CDATA[blocks/product_filters/horizontal_filters.tpl]]></template>
+                                <template><![CDATA[blocks/product_filters/for_category/horizontal_filters.tpl]]></template>
                             </properties>
                             <lang_code><![CDATA[en]]></lang_code>
                             <name><![CDATA[Product filters]]></name>
@@ -2464,6 +2462,7 @@ Monday — Friday</li>
                             <content>
                                 <items>
                                     <filling><![CDATA[manually]]></filling>
+                                    <item_ids></item_ids>
                                 </items>
                             </content>
                             <object_ids><![CDATA[]]></object_ids>
@@ -2473,6 +2472,7 @@ Monday — Friday</li>
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Фильтры товаров]]></translation>
+                                <translation lang_code="el"><![CDATA[Φίλτρα Προϊόντων]]></translation>
                             </translations>
                             <contents>
                                 <item>
@@ -2598,6 +2598,7 @@ Monday — Friday</li>
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Недавнее]]></translation>
+                                <translation lang_code="el"><![CDATA[Τελευταία Άρθρα]]></translation>
                             </translations>
                             <contents>
                                 <item>

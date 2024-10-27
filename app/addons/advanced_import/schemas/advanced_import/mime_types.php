@@ -14,6 +14,4 @@
 
 defined('BOOTSTRAP') or die('Access denied');
 
-return [
-    'yml' => 'text/xml'
-];
+return [];

@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-22 18:12:40
+/* Smarty version 4.3.0, created on 2024-10-27 22:50:33
   from 'D:\OSPanel\domains\cscart\design\backend\templates\addons\product_bundles\hooks\index\scripts.post.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_6717c0e8ede7c6_45635652',
+  'unifunc' => 'content_671e9989229979_83316023',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '6de28f95b60ff9f3bbefd72f99830ff969893500' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\addons\\product_bundles\\hooks\\index\\scripts.post.tpl',
-      1 => 1728457677,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6717c0e8ede7c6_45635652 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e9989229979_83316023 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\block.inline_script.php','function'=>'smarty_block_inline_script',),));
 \Tygh\Languages\Helper::preloadLangVars(array('options','any_option_combinations','product_bundles.any_variation'));
 $_smarty_tpl->smarty->_cache['_tag_stack'][] = array('inline_script', array());

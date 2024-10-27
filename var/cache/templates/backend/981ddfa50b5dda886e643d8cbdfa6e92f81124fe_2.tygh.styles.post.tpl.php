@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-22 18:12:28
+/* Smarty version 4.3.0, created on 2024-10-27 22:50:34
   from 'D:\OSPanel\domains\cscart\design\backend\templates\addons\rus_taxes\hooks\index\styles.post.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_6717c0dc913594_65131438',
+  'unifunc' => 'content_671e998a6c0db3_81169429',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6717c0dc913594_65131438 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e998a6c0db3_81169429 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\function.style.php','function'=>'smarty_function_style',),));
 echo smarty_function_style(array('src'=>"addons/rus_taxes/styles.less"),$_smarty_tpl);?>
 

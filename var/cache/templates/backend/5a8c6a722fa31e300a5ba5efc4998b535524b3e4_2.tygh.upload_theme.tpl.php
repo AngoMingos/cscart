@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-22 18:12:32
+/* Smarty version 4.3.0, created on 2024-10-27 22:50:37
   from 'D:\OSPanel\domains\cscart\design\backend\templates\views\themes\components\upload_theme.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_6717c0e06011a7_24777140',
+  'unifunc' => 'content_671e998d380228_86683661',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '5a8c6a722fa31e300a5ba5efc4998b535524b3e4' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\views\\themes\\components\\upload_theme.tpl',
-      1 => 1728457723,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -22,7 +22,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'tygh:buttons/save_cancel.tpl' => 1,
   ),
 ),false)) {
-function content_6717c0e06011a7_24777140 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e998d380228_86683661 (Smarty_Internal_Template $_smarty_tpl) {
 \Tygh\Languages\Helper::preloadLangVars(array('install_theme_text','marketplace_find_more','upload'));
 ?>
 <div class="install-addon" id="theme_upload_container">

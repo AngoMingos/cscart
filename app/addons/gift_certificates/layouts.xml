@@ -21,17 +21,14 @@
                             <lang_code><![CDATA[en]]></lang_code>
                             <name><![CDATA[Breadcrumbs]]></name>
                             <object_id><![CDATA[0]]></object_id>
-                            <object_type><![CDATA[]]></object_type>
-                            <content><![CDATA[]]></content>
-                            <object_ids><![CDATA[]]></object_ids>
-                            <wrapper><![CDATA[]]></wrapper>
-                            <user_class><![CDATA[]]></user_class>
+                            <object_type />
+                            <content />
+                            <object_ids />
+                            <wrapper />
+                            <user_class />
                             <order><![CDATA[0]]></order>
                             <status><![CDATA[A]]></status>
-                            <translations>
-                                <translation lang_code="ru"><![CDATA[Строка навигации]]></translation>
-                            </translations>
-                            <contents />
+                            <translations />
                         </block>
                     </blocks>
                 </grid>
@@ -39,21 +36,18 @@
                     <blocks>
                         <block>
                             <type><![CDATA[main]]></type>
-                            <properties><![CDATA[]]></properties>
+                            <properties />
                             <lang_code><![CDATA[en]]></lang_code>
                             <name><![CDATA[Main Content]]></name>
                             <object_id><![CDATA[0]]></object_id>
-                            <object_type><![CDATA[]]></object_type>
-                            <content><![CDATA[]]></content>
-                            <object_ids><![CDATA[]]></object_ids>
+                            <object_type />
+                            <content />
+                            <object_ids />
                             <wrapper><![CDATA[blocks/wrappers/mainbox_general.tpl]]></wrapper>
-                            <user_class><![CDATA[]]></user_class>
+                            <user_class />
                             <order><![CDATA[0]]></order>
                             <status><![CDATA[A]]></status>
-                            <translations>
-                                <translation lang_code="ru"><![CDATA[Главное содержимое]]></translation>
-                            </translations>
-                            <contents />
+                            <translations />
                         </block>
                     </blocks>
                 </grid>
@@ -96,7 +90,7 @@
                 <meta_keywords><![CDATA[]]></meta_keywords>
                 <page_title><![CDATA[]]></page_title>
                 <meta_description><![CDATA[]]></meta_description>
-                <name>礼券</name>
+                <name>礼券</name>             
             </translation>
         </translations>
     </location>

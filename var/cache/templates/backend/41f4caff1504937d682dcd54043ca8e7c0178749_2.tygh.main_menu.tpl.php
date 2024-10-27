@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-22 18:12:38
+/* Smarty version 4.3.0, created on 2024-10-27 22:50:30
   from 'D:\OSPanel\domains\cscart\design\backend\templates\components\menu\main_menu.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_6717c0e6b12db8_69778753',
+  'unifunc' => 'content_671e99868ef518_25463053',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '41f4caff1504937d682dcd54043ca8e7c0178749' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\components\\menu\\main_menu.tpl',
-      1 => 1728457695,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -23,13 +23,13 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'tygh:components/menu/add_item.tpl' => 1,
   ),
 ),false)) {
-function content_6717c0e6b12db8_69778753 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e99868ef518_25463053 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
   'menu_attrs' => 
   array (
     'compiled_filepath' => 'D:\\OSPanel\\domains\\cscart\\var\\cache\\templates\\backend\\41f4caff1504937d682dcd54043ca8e7c0178749_2.tygh.main_menu.tpl.php',
     'uid' => '41f4caff1504937d682dcd54043ca8e7c0178749',
-    'call_name' => 'smarty_template_function_menu_attrs_12186104886717c0e6aa3586_23167762',
+    'call_name' => 'smarty_template_function_menu_attrs_597447230671e9986887626_17355284',
   ),
 ));
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\modifier.enum.php','function'=>'smarty_modifier_enum',),1=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\function.include_ext.php','function'=>'smarty_function_include_ext',),2=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\lib\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.replace.php','function'=>'smarty_modifier_replace',),3=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\modifier.truncate.php','function'=>'smarty_modifier_truncate',),));
@@ -192,9 +192,9 @@ $_smarty_tpl->_assignInScope('extra_params_add', $_smarty_tpl->tpl_vars['level']
 $_smarty_tpl->_subTemplateRender("tygh:components/menu/add_item.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array('menu_name'=>(($tmp = $_smarty_tpl->tpl_vars['item_parent']->value['title'] ?? null)===null||$tmp==='' ? $_smarty_tpl->__($_smarty_tpl->tpl_vars['item_key_parent']->value) ?? null : $tmp),'id'=>$_smarty_tpl->tpl_vars['item_key_parent']->value,'has_items'=>($_smarty_tpl->tpl_vars['item_parent']->value['items'] || $_smarty_tpl->tpl_vars['item_parent']->value['subitems']),'extra_params'=>$_smarty_tpl->tpl_vars['extra_params_add']->value,'is_subitem'=>($_smarty_tpl->tpl_vars['item_parent']->value['items'] || $_smarty_tpl->tpl_vars['item_parent']->value['subitems'])), 0, false);
 ?></div><?php }
 }
-/* smarty_template_function_menu_attrs_12186104886717c0e6aa3586_23167762 */
-if (!function_exists('smarty_template_function_menu_attrs_12186104886717c0e6aa3586_23167762')) {
-function smarty_template_function_menu_attrs_12186104886717c0e6aa3586_23167762(Smarty_Internal_Template $_smarty_tpl,$params) {
+/* smarty_template_function_menu_attrs_597447230671e9986887626_17355284 */
+if (!function_exists('smarty_template_function_menu_attrs_597447230671e9986887626_17355284')) {
+function smarty_template_function_menu_attrs_597447230671e9986887626_17355284(Smarty_Internal_Template $_smarty_tpl,$params) {
 $params = array_merge(array('attrs'=>array()), $params);
 foreach ($params as $key => $value) {
 $_smarty_tpl->tpl_vars[$key] = new Smarty_Variable($value, $_smarty_tpl->isRenderingCache);
@@ -209,5 +209,5 @@ echo htmlspecialchars((string) $_smarty_tpl->tpl_vars['attr']->value, ENT_QUOTES
 }
 $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);
 }}
-/*/ smarty_template_function_menu_attrs_12186104886717c0e6aa3586_23167762 */
+/*/ smarty_template_function_menu_attrs_597447230671e9986887626_17355284 */
 }

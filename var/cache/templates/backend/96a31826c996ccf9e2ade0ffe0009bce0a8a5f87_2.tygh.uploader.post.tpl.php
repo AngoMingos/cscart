@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-22 18:12:33
+/* Smarty version 4.3.0, created on 2024-10-27 22:50:23
   from 'D:\OSPanel\domains\cscart\design\backend\templates\addons\hidpi\hooks\fileuploader\uploader.post.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_6717c0e10e2370_86794552',
+  'unifunc' => 'content_671e997fe66e66_11119415',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '96a31826c996ccf9e2ade0ffe0009bce0a8a5f87' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\addons\\hidpi\\hooks\\fileuploader\\uploader.post.tpl',
-      1 => 1728457675,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6717c0e10e2370_86794552 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e997fe66e66_11119415 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\function.include_ext.php','function'=>'smarty_function_include_ext',),));
 \Tygh\Languages\Helper::preloadLangVars(array('hidpi.upload_high_res_image','hidpi.upload_high_res_image.tooltip'));
 if ($_smarty_tpl->tpl_vars['is_image']->value && (($tmp = $_smarty_tpl->tpl_vars['show_hidpi_checkbox']->value ?? null)===null||$tmp==='' ? true ?? null : $tmp)) {?>

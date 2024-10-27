@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-22 18:12:37
+/* Smarty version 4.3.0, created on 2024-10-27 22:50:29
   from 'D:\OSPanel\domains\cscart\design\backend\templates\addons\help_center\templates\help_center_section.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_6717c0e5758830_97742497',
+  'unifunc' => 'content_671e99852a6ac8_50941555',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '574beda3dcd289f1b9cd1a3f714f4292c7172b20' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\addons\\help_center\\templates\\help_center_section.tpl',
-      1 => 1728457674,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6717c0e5758830_97742497 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e99852a6ac8_50941555 (Smarty_Internal_Template $_smarty_tpl) {
 echo '<script'; ?>
  type="text/template" data-ca-help-center="section" data-no-defer="true" data-no-execute="§"
     ><div class="help-center-section ${data.isShow ? '' : 'hidden'} ${data.class ? data.class : ''} help-center-section--${data.id}"

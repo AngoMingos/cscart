@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-22 18:12:36
+/* Smarty version 4.3.0, created on 2024-10-27 22:50:27
   from 'D:\OSPanel\domains\cscart\design\backend\templates\components\menu\actions_menu.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_6717c0e475e350_90745505',
+  'unifunc' => 'content_671e9983f0a163_63614134',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '6104069d7c78a83c3367a66da062c10c441e6fd2' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\components\\menu\\actions_menu.tpl',
-      1 => 1728457695,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'tygh:common/tools.tpl' => 1,
   ),
 ),false)) {
-function content_6717c0e475e350_90745505 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e9983f0a163_63614134 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\modifier.count.php','function'=>'smarty_modifier_count',),1=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\modifier.truncate.php','function'=>'smarty_modifier_truncate',),2=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\modifier.trim.php','function'=>'smarty_modifier_trim',),));
 \Tygh\Languages\Helper::preloadLangVars(array('actions.more'));
 if ($_smarty_tpl->tpl_vars['items']->value) {

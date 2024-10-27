@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-22 18:12:36
+/* Smarty version 4.3.0, created on 2024-10-27 22:50:27
   from 'D:\OSPanel\domains\cscart\design\backend\templates\addons\product_reviews\hooks\index\actions.pre.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_6717c0e4114e95_80509770',
+  'unifunc' => 'content_671e998377f1f1_29702434',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '470c79cdf0b2d0905bd005fc11260160e3e28de4' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\addons\\product_reviews\\hooks\\index\\actions.pre.tpl',
-      1 => 1728457678,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6717c0e4114e95_80509770 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e998377f1f1_29702434 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\modifier.enum.php','function'=>'smarty_modifier_enum',),));
 ?>
 

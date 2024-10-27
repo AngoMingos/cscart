@@ -6,6 +6,7 @@
         {include_ext file="common/icon.tpl" class="ty-icon-down-micro ty-account-info__user-arrow"}
     </a>
 {/capture}
+
 <div id="account_info_{$block.snapping_id}">
     {assign var="return_current_url" value=$config.current_url|escape:url}
     <ul class="ty-account-info">

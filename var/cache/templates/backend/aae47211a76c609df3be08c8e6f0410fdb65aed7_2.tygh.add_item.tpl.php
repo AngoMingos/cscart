@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-22 18:12:39
+/* Smarty version 4.3.0, created on 2024-10-27 22:50:31
   from 'D:\OSPanel\domains\cscart\design\backend\templates\components\menu\add_item.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_6717c0e7418fb7_59927714',
+  'unifunc' => 'content_671e99872f3836_22896265',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'aae47211a76c609df3be08c8e6f0410fdb65aed7' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\components\\menu\\add_item.tpl',
-      1 => 1728457695,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'tygh:common/popupbox.tpl' => 1,
   ),
 ),false)) {
-function content_6717c0e7418fb7_59927714 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e99872f3836_22896265 (Smarty_Internal_Template $_smarty_tpl) {
 \Tygh\Languages\Helper::preloadLangVars(array('admin_menu.add_item_for_menu_title','admin_menu.add_item_title','admin_menu.add_item'));
 if ($_smarty_tpl->tpl_vars['runtime']->value['customization_mode']['block_manager'] && $_smarty_tpl->tpl_vars['location_data']->value['is_frontend_editing_allowed']) {
 $_smarty_tpl->_assignInScope('has_subitems', (($tmp = $_smarty_tpl->tpl_vars['has_subitems']->value ?? null)===null||$tmp==='' ? false ?? null : $tmp));

@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-22 18:12:39
+/* Smarty version 4.3.0, created on 2024-10-27 22:50:31
   from 'D:\OSPanel\domains\cscart\design\backend\templates\views\block_manager\frontend_render\block.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_6717c0e7227485_19473530',
+  'unifunc' => 'content_671e99870a3c26_79041145',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '272472f347a2758cc3e35728842348642180de2d' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\views\\block_manager\\frontend_render\\block.tpl',
-      1 => 1728457710,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'backend:views/block_manager/frontend_render/components/block_menu.tpl' => 1,
   ),
 ),false)) {
-function content_6717c0e7227485_19473530 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e99870a3c26_79041145 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\modifier.trim.php','function'=>'smarty_modifier_trim',),));
 if (smarty_modifier_trim($_smarty_tpl->tpl_vars['content']->value)) {?>
     <?php if ($_smarty_tpl->tpl_vars['runtime']->value['customization_mode']['block_manager'] && $_smarty_tpl->tpl_vars['location_data']->value['is_frontend_editing_allowed']) {?>

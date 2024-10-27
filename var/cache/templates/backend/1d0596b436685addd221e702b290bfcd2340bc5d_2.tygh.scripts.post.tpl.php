@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-22 18:12:41
+/* Smarty version 4.3.0, created on 2024-10-27 22:50:33
   from 'D:\OSPanel\domains\cscart\design\backend\templates\addons\tech_support_chat\hooks\index\scripts.post.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_6717c0e91d20d1_66194648',
+  'unifunc' => 'content_671e9989495d55_06250324',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '1d0596b436685addd221e702b290bfcd2340bc5d' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\addons\\tech_support_chat\\hooks\\index\\scripts.post.tpl',
-      1 => 1728457688,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6717c0e91d20d1_66194648 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e9989495d55_06250324 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\modifier.enum.php','function'=>'smarty_modifier_enum',),1=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\block.inline_script.php','function'=>'smarty_block_inline_script',),));
 if ($_smarty_tpl->tpl_vars['auth']->value['user_id'] && $_smarty_tpl->tpl_vars['auth']->value['user_type'] === smarty_modifier_enum("UserTypes::ADMIN") && $_smarty_tpl->tpl_vars['auth']->value['is_root'] === smarty_modifier_enum("YesNo::YES") && $_SESSION['tech_support_chat_widget_id']) {?>
     <?php $_smarty_tpl->smarty->_cache['_tag_stack'][] = array('inline_script', array());

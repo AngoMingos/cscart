@@ -34,9 +34,3 @@ REPLACE INTO ?:images_links (`object_id`, `object_type`, `image_id`, `detailed_i
 REPLACE INTO ?:images_links (`object_id`, `object_type`, `image_id`, `detailed_id`, `type`, `position`) VALUES(42, 'promo', 8633, 0, 'M', 0);
 REPLACE INTO ?:images_links (`object_id`, `object_type`, `image_id`, `detailed_id`, `type`, `position`) VALUES(47, 'promo', 8634, 0, 'M', 0);
 REPLACE INTO ?:images_links (`object_id`, `object_type`, `image_id`, `detailed_id`, `type`, `position`) VALUES(41, 'promo', 8632, 0, 'M', 0);
-REPLACE INTO ?:images (`image_id`, `image_path`, `image_x`, `image_y`) VALUES(1300, 'banner-en-sale-40-80.ru.png', 740, 395);
-REPLACE INTO ?:images (`image_id`, `image_path`, `image_x`, `image_y`) VALUES(1301, 'banner-en-xbox360.ru.jpg', 740, 395);
-REPLACE INTO ?:images (`image_id`, `image_path`, `image_x`, `image_y`) VALUES(1302, 'banner-en-point.ru.jpg', 740, 395);
-REPLACE INTO ?:images (`image_id`, `image_path`, `image_x`, `image_y`) VALUES(1303, 'banner-en-girl.ru.jpg', 740, 395);
-REPLACE INTO ?:images (`image_id`, `image_path`, `image_x`, `image_y`) VALUES(1304, 'banner_en_free_ship_lies-pz.ru.png', 434, 185);
-REPLACE INTO ?:images (`image_id`, `image_path`, `image_x`, `image_y`) VALUES(1305, 'banner_en_pickup_ok56-7h.ru.png', 434, 185);

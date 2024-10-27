@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-22 18:12:34
+/* Smarty version 4.3.0, created on 2024-10-27 22:50:25
   from 'D:\OSPanel\domains\cscart\design\backend\templates\common\tabsbox.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_6717c0e2c480e3_63675640',
+  'unifunc' => 'content_671e9981e6bce9_84472722',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'dcd3e02a41286380725c09454b43f6ea8bfe8a50' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\common\\tabsbox.tpl',
-      1 => 1728457694,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6717c0e2c480e3_63675640 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e9981e6bce9_84472722 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\function.script.php','function'=>'smarty_function_script',),1=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\modifier.empty_tabs.php','function'=>'smarty_modifier_empty_tabs',),2=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\modifier.count.php','function'=>'smarty_modifier_count',),3=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\modifier.in_array.php','function'=>'smarty_modifier_in_array',),4=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\modifier.enum.php','function'=>'smarty_modifier_enum',),));
 echo smarty_function_script(array('src'=>"js/tygh/tabs.js"),$_smarty_tpl);
 if (!$_smarty_tpl->tpl_vars['active_tab']->value) {

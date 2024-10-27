@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-22 18:12:37
+/* Smarty version 4.3.0, created on 2024-10-27 22:50:29
   from 'D:\OSPanel\domains\cscart\design\backend\templates\components\menu\notification_menu.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_6717c0e5984031_48725630',
+  'unifunc' => 'content_671e998550a9b1_96623420',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '4acdb5e9b62ebb69bc318b418a535f748d93893e' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\components\\menu\\notification_menu.tpl',
-      1 => 1728457695,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'tygh:components/notifications_center/opener.tpl' => 1,
   ),
 ),false)) {
-function content_6717c0e5984031_48725630 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e998550a9b1_96623420 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- Notification Center -->
     <?php $_smarty_tpl->_subTemplateRender("tygh:components/notifications_center/opener.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0, false);
 ?>

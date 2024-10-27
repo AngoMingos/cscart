@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-22 18:12:38
+/* Smarty version 4.3.0, created on 2024-10-27 22:50:30
   from 'D:\OSPanel\domains\cscart\design\backend\templates\components\menu\get_block_manager_data.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_6717c0e6882027_14193826',
+  'unifunc' => 'content_671e9986620fa5_20837581',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'fddc7c68461df96596c62e77114bbd82a92f2802' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\components\\menu\\get_block_manager_data.tpl',
-      1 => 1728457695,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6717c0e6882027_14193826 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e9986620fa5_20837581 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\modifier.enum.php','function'=>'smarty_modifier_enum',),));
 if ((defined('BLOCK_MANAGER_MODE') ? constant('BLOCK_MANAGER_MODE') : null)) {?>
     <?php $_smarty_tpl->_assignInScope('block_manager_attrs', array("data-ca-block-manager"=>"main","data-ca-block-manager-has-layout"=>0,"data-ca-block-manager-dispatch"=>"custom_menu","data-ca-block-manager-blocks-place"=>"true","data-ca-block-manager-grid-id"=>"header_main_menu"));?>

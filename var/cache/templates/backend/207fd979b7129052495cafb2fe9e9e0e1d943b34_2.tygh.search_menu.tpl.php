@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-22 18:12:37
+/* Smarty version 4.3.0, created on 2024-10-27 22:50:28
   from 'D:\OSPanel\domains\cscart\design\backend\templates\components\menu\search_menu.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_6717c0e5108828_90527761',
+  'unifunc' => 'content_671e99849b5ca3_49447733',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '207fd979b7129052495cafb2fe9e9e0e1d943b34' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\components\\menu\\search_menu.tpl',
-      1 => 1728457695,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6717c0e5108828_90527761 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e99849b5ca3_49447733 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\block.hook.php','function'=>'smarty_block_hook',),));
 \Tygh\Languages\Helper::preloadLangVars(array('admin_search_general'));
 ?>

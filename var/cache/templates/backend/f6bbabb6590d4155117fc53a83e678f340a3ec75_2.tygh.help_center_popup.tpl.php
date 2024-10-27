@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-22 18:12:37
+/* Smarty version 4.3.0, created on 2024-10-27 22:50:28
   from 'D:\OSPanel\domains\cscart\design\backend\templates\addons\help_center\component\help_center_popup.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_6717c0e5295067_07462840',
+  'unifunc' => 'content_671e9984b5dcd4_50338425',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'f6bbabb6590d4155117fc53a83e678f340a3ec75' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\addons\\help_center\\component\\help_center_popup.tpl',
-      1 => 1728457674,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'tygh:addons/help_center/views/help_center/manage.tpl' => 1,
   ),
 ),false)) {
-function content_6717c0e5295067_07462840 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e9984b5dcd4_50338425 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\function.include_ext.php','function'=>'smarty_function_include_ext',),));
 \Tygh\Languages\Helper::preloadLangVars(array('help_center.growth_center','help_center.growth_center'));
 $_smarty_tpl->_assignInScope('help_center_counter', (($tmp = $_smarty_tpl->tpl_vars['help_center_counter']->value ?? null)===null||$tmp==='' ? '' ?? null : $tmp));?>

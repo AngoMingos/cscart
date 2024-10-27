@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-22 18:12:33
+/* Smarty version 4.3.0, created on 2024-10-27 22:50:23
   from 'D:\OSPanel\domains\cscart\design\backend\templates\components\icons\get_fallback_source.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_6717c0e103b2a4_69837475',
+  'unifunc' => 'content_671e997fdb7039_80597278',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '110cf2cc1044b801bad2f8760e8642c11ac3832f' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\components\\icons\\get_fallback_source.tpl',
-      1 => 1728457695,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6717c0e103b2a4_69837475 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e997fdb7039_80597278 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\lib\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.explode.php','function'=>'smarty_modifier_explode',),1=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\lib\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.replace.php','function'=>'smarty_modifier_replace',),2=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\modifier.unset_key.php','function'=>'smarty_modifier_unset_key',),));
 $_smarty_tpl->smarty->ext->_capture->open($_smarty_tpl, "get_fallback_source", null, null);
 $_smarty_tpl->_assignInScope('icon_prefix', "icon-");

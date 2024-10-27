@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-22 18:12:37
+/* Smarty version 4.3.0, created on 2024-10-27 22:50:28
   from 'D:\OSPanel\domains\cscart\design\backend\templates\components\menu\storefront_menu.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_6717c0e5089f22_24741449',
+  'unifunc' => 'content_671e998492a474_44030258',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '6d0db4a5d81b67e818ed2292e79dafed6870e694' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\components\\menu\\storefront_menu.tpl',
-      1 => 1728457695,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6717c0e5089f22_24741449 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e998492a474_44030258 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\function.include_ext.php','function'=>'smarty_function_include_ext',),));
 $_smarty_tpl->_assignInScope('storefront_status_icon', '');
 $_smarty_tpl->_assignInScope('storefront_url', '');

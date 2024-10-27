@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-22 18:12:38
+/* Smarty version 4.3.0, created on 2024-10-27 22:50:30
   from 'D:\OSPanel\domains\cscart\design\backend\templates\menu.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_6717c0e653c7b8_82308510',
+  'unifunc' => 'content_671e998627f7d3_41367105',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '6b3b8cf7c447681920820b703e76a822f5c96eec' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\menu.tpl',
-      1 => 1728457669,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -24,7 +24,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'tygh:common/quick_menu.tpl' => 1,
   ),
 ),false)) {
-function content_6717c0e653c7b8_82308510 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e998627f7d3_41367105 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\function.include_ext.php','function'=>'smarty_function_include_ext',),));
 ?>
 <div class="cs-main-menu">
