@@ -1,1 +1,0 @@
-{style src="addons/1cart_power_design/styles.less"}
