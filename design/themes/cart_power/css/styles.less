@@ -6357,10 +6357,7 @@ Checkout
     padding: 10px 10px 20px;
 }
 
-/* Checkout auth */
-/*
- * Template: templates/views/checkout/components/checkout_login.tpl
- */
+
 .ty-checkout__login {
     float: left;
     padding-right: 3%;
@@ -8849,14 +8846,14 @@ input[type="checkbox"] {
 
 .custom-grid-list {
     display: grid;
-    grid-template-columns: repeat(4, 1fr); /* 4 колонки */
+    grid-template-columns: repeat(4, 1fr); 
     gap: 20px;
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
 }
 
-/* Стили для карточек товаров */
+
 .custom-grid-list__item {
     position: relative;
     width: 281px;
@@ -8864,16 +8861,16 @@ input[type="checkbox"] {
     border: 2px solid #E7E7E7;
     border-radius: 20px;
     overflow: hidden;
-    transition: border-color 0.3s ease, transform 0.3s ease; /* Увеличение высоты убрано */
+    transition: border-color 0.3s ease, transform 0.3s ease; 
     z-index: 1;
 }
 
 .custom-grid-list__item:hover {
     border-color: #525252;
-    transform: scale(1.05); /* Легкое увеличение без изменения высоты */
+    transform: scale(1.05); 
     z-index: 10;
 }
-/* Общий стиль для карточек */
+
 .custom-grid-list__item {
     position: relative;
     width: 281px;
@@ -8881,18 +8878,15 @@ input[type="checkbox"] {
     border: 2px solid #ccc;
     border-radius: 20px;
     overflow: hidden;
-    transition: border-color 0.3s ease, height 0.3s ease; /* Плавное изменение высоты */
+    transition: border-color 0.3s ease, height 0.3s ease; 
 }
 
-
-
-/* Контейнер для изображения */
 .custom-grid-list__image-container {
     width: 100%;
     height: 208px;
     display: flex;
-    justify-content: center; /* Центрирование по горизонтали */
-    align-items: center; /* Центрирование по вертикали */
+    justify-content: center; 
+    align-items: center; 
     position: relative;
     overflow: hidden;
 }
@@ -8901,12 +8895,10 @@ input[type="checkbox"] {
     max-width: 100%;
     max-height: 100%;
     border-radius: 20px;
-    display: block; /* Убедитесь, что изображение является блочным элементом */
-    margin: 0 auto; /* Центрирование изображения */
+    display: block; 
+    margin: 0 auto; 
 }
 
-
-/* Правильное размещение текста и цены */
 .custom-grid-list__item-name,
 .custom-availability,
 .custom-price,
@@ -8945,7 +8937,7 @@ input[type="checkbox"] {
     margin: 5px 0;
 }
 
-/* Кнопки, которые появляются при наведении */
+
 .custom-view-button,
 .custom-favorite-button {
     display: none;
@@ -8979,12 +8971,10 @@ input[type="checkbox"] {
     opacity: 1;
 }
 
-/* Стили для активного состояния избранного */
 .custom-favorite-button.active {
     color: red;
 }
 
-/* Стили для карусельных стрелок */
 .custom-carousel-arrow {
     position: absolute;
     top: 50%;
@@ -9003,70 +8993,54 @@ input[type="checkbox"] {
 }
 
 
-
-
-// НОВОЕ НАЧАЛО
-//СТИЛИ 
-//ДЛЯ
-//ШАБЛОНА 
-//С
-//ТОВАРАМИ
-// РАСПРОДАЖА!!!!!!!
-
-/* Контейнер для сетки товаров */
 .cp-grid-list {
     display: flex;
     flex-wrap: wrap;
-    gap: 20px; /* Расстояние между товарами */
+    gap: 20px; 
     padding: 20px;
-    background-color: #f9f9f9; /* Фоновый цвет сетки */
+    background-color: #f9f9f9; 
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
-/* Колонки в сетке товаров */
-.cp-column2 {
-    width: calc(50% - 20px); /* Для 2 колонок */
-}
 
+.cp-column2 {
+    width: calc(50% - 20px); 
+}
 .cp-column3 {
-    width: calc(33.333% - 20px); /* Для 3 колонок */
+    width: calc(33.333% - 20px); 
 }
 
 .cp-column4 {
-    width: calc(25% - 20px); /* Для 4 колонок */
+    width: calc(25% - 20px); 
     padding-right: 15%;
 }
 
-/* Каждый отдельный товар в сетке */
 .cp-grid-list__item {
-    width: 281px; /* Фиксированная ширина карточки */
-    height: 316px; /* Фиксированная высота карточки */
-    background-color: #fff; /* Фоновый цвет товара */
-    border: 1px solid #ddd; /* Граница товара */
+    width: 281px; 
+    height: 316px; 
+    background-color: #fff; 
+    border: 1px solid #ddd; 
     border-radius: 8px;
-    position: relative; /* Для позиционирования оверлея */
+    position: relative; 
     transition: transform 0.3s;
     display: flex;
     flex-direction: column;
     align-items: center;
-    overflow: hidden; /* Скрываем переполнение содержимого */
+    overflow: hidden; 
 }
 
 .cp-grid-item:hover {
-    transform: translateY(-5px); /* Эффект при наведении */
+    transform: translateY(-5px); 
 }
 
-/* Обёртка для кнопки быстрого просмотра */
 .cp-quick-view-wrapper {
     position: absolute;
     top: 10px;
     right: 10px;
-    /* Дополнительные стили */
 }
 
-/* Оверлей для товаров с дополнительными опциями */
 .cp-item-overlay {
     background: rgba(0, 0, 0, 0.5);
     position: absolute;
@@ -9085,65 +9059,60 @@ input[type="checkbox"] {
     opacity: 1;
 }
 
-/* Контейнер для изображения товара */
 .cp-grid-list__image {
-    width: 280px; /* Ширина окружения изображения */
-    height: 208px; /* Высота окружения изображения */
+    width: 280px; 
+    height: 208px; 
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1px solid #ddd; /* Граница вокруг изображения */
+    border: 1px solid #ddd; 
     box-sizing: border-box;
-    background-color: #fefefe; /* Фоновый цвет окружения изображения */
-    margin-top: 10px; /* Отступ сверху */
+    background-color: #fefefe; 
+    margin-top: 10px; 
 }
 
-/* Изображение товара */
 .cp-grid-list__image img {
-    width: 179px; /* Фиксированная ширина изображения */
-    height: 179px; /* Фиксированная высота изображения */
-    object-fit: cover; /* Масштабирование изображения */
+    width: 179px; 
+    height: 179px; 
+    object-fit: cover; 
     border-radius: 4px;
 }
 
-
-/* Название товара */
 .cp-product-name {
     font-size: 1.2em;
     margin: 10px 0;
     color: #333;
     text-align: center;
-    padding: 0 10px; /* Внутренние отступы для текста */
-    flex-grow: 1; /* Растягиваем название, чтобы занимало доступное пространство */
+    padding: 0 10px; 
+    flex-grow: 1; 
 }
 
-/* Нумерация товара */
 .cp-item-number {
     font-weight: bold;
     margin-right: 5px;
     color: #555;
 }
 
-/* Рейтинг товара */
+
 .cp-rating {
     margin: 10px 0;
     text-align: center;
-    color: #f39c12; /* Цвет звезд рейтинга */
+    color: #f39c12; 
 }
 
-/* Цена товара */
+
 .cp-price {
     font-size: 1.1em;
-    color: #27ae60; /* Цвет цены */
+    color: #27ae60; 
     text-align: center;
     margin-bottom: 10px;
 }
 
 .cp-no-price {
-    color: #999; /* Цвет для товаров без цены */
+    color: #999; 
 }
 
-/* Контейнер для кнопок управления */
+
 .cp-control {
     display: flex;
     justify-content: center;
@@ -9151,12 +9120,6 @@ input[type="checkbox"] {
     margin-top: 10px;
 }
 
-/* Контейнер для кнопок */
-.cp-button-container {
-    /* Стили для контейнера кнопок */
-}
-
-/* Пустой блок для выравнивания сетки */
 .cp-product-empty {
     width: 100%;
     text-align: center;
@@ -9166,75 +9129,70 @@ input[type="checkbox"] {
     border-radius: 8px;
 }
 
-/* Текст внутри пустого блока */
+
 .cp-empty-text {
     color: #999;
     font-size: 1em;
 }
 
-
-////////////////карусель
-
-/* Основные стили для карусели */
-/* Основные стили для карусели */
 .cp-carousel {
-    position: absolute; /* Позиционируем карусель поверх карточки */
+    position: absolute; 
     top: 0; 
     left: 0; 
     right: 0; 
     bottom: 0; 
-    display: none; /* Скрыто по умолчанию */
-    align-items: center; /* Центрируем содержимое */
-    justify-content: center; /* Центрируем содержимое */
+    display: none; 
+    align-items: center; 
+    justify-content: center; 
 }
 
 .cp-carousel__track {
     display: flex;
-    overflow: hidden; /* Прячем выходящие за пределы слайды */
+    overflow: hidden; 
 }
 
 .cp-carousel__slide {
-    min-width: 100%; /* Каждый слайд занимает всю ширину */
-    transition: opacity 0.5s ease; /* Плавный переход между слайдами */
+    min-width: 100%; 
+    transition: opacity 0.5s ease; 
 }
 
 .cp-carousel__button {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    background: rgba(255, 255, 255, 0.8); /* Полупрозрачный фон для кнопок */
-    border: none; /* Убираем рамки */
-    cursor: pointer; /* Курсор для кнопок */
-    z-index: 10; /* Чтобы кнопки были выше слайдов */
+    background: rgba(255, 255, 255, 0.8); 
+    border: none; 
+    cursor: pointer; 
+    z-index: 10; 
 }
 
 .cp-carousel__button--prev {
-    left: 10px; /* Позиционируем кнопку слева */
+    left: 10px; 
 }
 
 .cp-carousel__button--next {
-    right: 10px; /* Позиционируем кнопку справа */
+    right: 10px; 
 }
 
 .cp-button--blue {
-    background-color: blue; /* Синий цвет кнопки */
-    color: white; /* Цвет текста */
-    padding: 10px 15px; /* Отступы */
-    text-decoration: none; /* Убираем подчеркивание */
-    border-radius: 5px; /* Закругленные углы */
+    background-color: blue; 
+    color: white; 
+    padding: 10px 15px; 
+    text-decoration: none; 
+    border-radius: 5px; 
 }
 
 .cp-price__current {
-    font-weight: bold; /* Выделяем текущую цену */
+    font-weight: bold; 
 }
 
 .cp-price__old {
-    text-decoration: line-through; /* Зачеркнутая старая цена */
-    color: gray; /* Цвет старой цены */
+    text-decoration: line-through; 
+    color: gray; 
 }
 
 .cp-availability {
-    color: green; /* Цвет текста "В наличии" */
-    font-weight: bold; /* Жирный шрифт */
+    color: green; 
+    font-weight: bold; 
 }
 
