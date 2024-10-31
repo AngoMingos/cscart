@@ -12,7 +12,7 @@
                 <items>
                     <item id="provider">
                         <type>selectbox</type>
-                        <default_value>yandex</default_value>
+                        <default_value>google</default_value>
                         <variants>
                             <item id="google">
                             </item>

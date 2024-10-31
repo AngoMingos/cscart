@@ -16,5 +16,5 @@ defined('BOOTSTRAP') or die('Access denied');
 
 return [
     'csv' => ['csv'],
-    'xml' => ['xml', 'yml']
+    'xml' => ['xml']
 ];

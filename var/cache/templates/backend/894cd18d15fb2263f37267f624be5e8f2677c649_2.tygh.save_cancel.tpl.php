@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-15 19:03:31
+/* Smarty version 4.3.0, created on 2024-10-27 22:50:24
   from 'D:\OSPanel\domains\cscart\design\backend\templates\buttons\save_cancel.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_670e9253415027_43784303',
+  'unifunc' => 'content_671e9980043ba8_53613881',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '894cd18d15fb2263f37267f624be5e8f2677c649' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\buttons\\save_cancel.tpl',
-      1 => 1728457692,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'tygh:buttons/button.tpl' => 1,
   ),
 ),false)) {
-function content_670e9253415027_43784303 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e9980043ba8_53613881 (Smarty_Internal_Template $_smarty_tpl) {
 \Tygh\Languages\Helper::preloadLangVars(array('save','save_and_close','create','create_and_close','cancel'));
 if ($_smarty_tpl->tpl_vars['but_target_id']->value || $_smarty_tpl->tpl_vars['but_target_form']->value) {
 $_smarty_tpl->_assignInScope('but_role', "submit-link");

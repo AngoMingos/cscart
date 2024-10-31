@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-15 19:03:34
+/* Smarty version 4.3.0, created on 2024-10-27 22:50:28
   from 'D:\OSPanel\domains\cscart\design\backend\templates\components\menu\logo_menu.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_670e9256d42543_51469043',
+  'unifunc' => 'content_671e998475fbe4_20156580',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '3c1a00656c4584b66379af5d113c929f51274257' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\components\\menu\\logo_menu.tpl',
-      1 => 1728457695,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_670e9256d42543_51469043 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e998475fbe4_20156580 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\block.hook.php','function'=>'smarty_block_hook',),1=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\modifier.enum.php','function'=>'smarty_modifier_enum',),));
 \Tygh\Languages\Helper::preloadLangVars(array('admin.go_to_the_homepage'));
 $_smarty_tpl->_assignInScope('logo_path_light', "cart_logo.svg");

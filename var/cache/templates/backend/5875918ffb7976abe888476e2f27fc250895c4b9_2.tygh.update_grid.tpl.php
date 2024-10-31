@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-15 19:23:10
+/* Smarty version 4.3.0, created on 2024-10-27 22:59:48
   from 'D:\OSPanel\domains\cscart\design\backend\templates\views\block_manager\update_grid.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_670e96ee06f680_91993756',
+  'unifunc' => 'content_671e9bb4d38e67_07472287',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '5875918ffb7976abe888476e2f27fc250895c4b9' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\views\\block_manager\\update_grid.tpl',
-      1 => 1728457709,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'tygh:buttons/save_cancel.tpl' => 1,
   ),
 ),false)) {
-function content_670e96ee06f680_91993756 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e9bb4d38e67_07472287 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\function.include_ext.php','function'=>'smarty_function_include_ext',),1=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\block.hook.php','function'=>'smarty_block_hook',),));
 \Tygh\Languages\Helper::preloadLangVars(array('general','width','block_manager.description_available_values_for_grid_select','content_alignment','full_width','left','right','wrapper','none','offset','block_manager.description_available_values_for_grid_select','user_class','block_manager.availability.show_on','block_manager.availability.'));
 if ($_smarty_tpl->tpl_vars['grid']->value['grid_id']) {?>

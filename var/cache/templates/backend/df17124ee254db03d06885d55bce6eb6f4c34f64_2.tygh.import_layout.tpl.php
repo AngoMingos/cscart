@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-15 19:08:06
+/* Smarty version 4.3.0, created on 2024-10-27 22:59:31
   from 'D:\OSPanel\domains\cscart\design\backend\templates\views\block_manager\components\import_layout.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_670e93665d3878_17891252',
+  'unifunc' => 'content_671e9ba3d567c2_13505897',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'df17124ee254db03d06885d55bce6eb6f4c34f64' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\views\\block_manager\\components\\import_layout.tpl',
-      1 => 1728457710,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -22,7 +22,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'tygh:buttons/save_cancel.tpl' => 1,
   ),
 ),false)) {
-function content_670e93665d3878_17891252 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e9ba3d567c2_13505897 (Smarty_Internal_Template $_smarty_tpl) {
 \Tygh\Languages\Helper::preloadLangVars(array('create_new_layout','update_current_layout','clean_up_all_locations_on_import','override_by_dispatch','import'));
 ?>
 <div class="install-addon">

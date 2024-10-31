@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-15 19:03:37
+/* Smarty version 4.3.0, created on 2024-10-27 22:50:31
   from 'D:\OSPanel\domains\cscart\design\backend\templates\views\settings\license_errors.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_670e9259ed7115_03990425',
+  'unifunc' => 'content_671e9987ee5c81_42623840',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'bf1791001c0a03eae4cf17ba500273d018fbc2be' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\views\\settings\\license_errors.tpl',
-      1 => 1728457720,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_670e9259ed7115_03990425 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e9987ee5c81_42623840 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\block.inline_script.php','function'=>'smarty_block_inline_script',),));
 \Tygh\Languages\Helper::preloadLangVars(array('licensing.license_error_license_is_','licensing.license_error_license_is_','please_enter_license_here','activate'));
 if ($_smarty_tpl->tpl_vars['show']->value) {?>

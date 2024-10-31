@@ -11,10 +11,10 @@
             <section id="general">
                 <items>
                     <item id="service_url">
-                        <type>selectbox</type>
-                        <default_value>https://converter.cs-cart.ru</default_value>
+                        <type>hidden</type>
+                        <default_value>https://converter.cart-services.com</default_value>
                         <variants>
-                            <item id="https://converter.cart-services.com"/><item id="https://converter.cs-cart.ru"/>
+                            <item id="https://converter.cart-services.com"/>
                         </variants>
                     </item>
                 </items>

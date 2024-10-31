@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-15 19:08:04
+/* Smarty version 4.3.0, created on 2024-10-27 22:59:29
   from 'D:\OSPanel\domains\cscart\design\backend\templates\views\block_manager\render\grid.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_670e93645d38b1_07197676',
+  'unifunc' => 'content_671e9ba1cd90a4_50119069',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'c1089a68ab00b7bc7393f69406389932ba6fb7ee' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\views\\block_manager\\render\\grid.tpl',
-      1 => 1728457710,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -22,7 +22,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'tygh:views/block_manager/components/device_icons.tpl' => 1,
   ),
 ),false)) {
-function content_670e93645d38b1_07197676 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e9ba1cd90a4_50119069 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\function.include_ext.php','function'=>'smarty_function_include_ext',),));
 \Tygh\Languages\Helper::preloadLangVars(array('grid','add_grid_block','insert_grid','insert_block','grid_options','enable_or_disable_grid','delete_grid','editing_grid','insert_grid','insert_block','grid_options','delete_grid','on_off'));
 ?>

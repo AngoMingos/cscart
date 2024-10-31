@@ -1,143 +1,133 @@
+                              
+                              LICENSE AGREEMENT
+                            on the use of CS-Cart
 
-                                        Лицензионное соглашение на использование «Русской версии CS-Cart»
+This license agreement (hereinafter referred to as the "Agreement") constitutes a contract between Bolide Network LLC, San Diego CA, USA (hereinafter referred to as the "Company") and you (hereinafter referred to as the "User"), hereinafter jointly referred to as the “Parties”.
 
-Данное лицензионное соглашение (далее - «Соглашение») заключается между Калыняком В.В., Винокуровым А.В., Шальневым И.М., являющимися авторами и обладателями исключительного права на программное обеспечение «Русская версия CS-Cart» (далее - «Правообладатель») и Вами (далее - «Пользователь»).
+This Agreement contains definitions and conditions under which the User can use CS-Cart.
 
-Настоящее Соглашение содержит определения и условия, согласно которым Пользователь может использовать программное обеспечение «Русская версия CS-Cart».
+This Agreement is a public offer and is available at https://www.cs-cart.com for review and acceptance of its conditions when the User acquires the right to use the CS-Cart.
 
+TERMS AND DEFINITIONS
+All terms given in this section of the Agreement shall have the following meaning for this Agreement only, and shall not be construed to suggest otherwise when used in respect of the conditions set forth in this Agreement.
 
-ТЕРМИНЫ И ОПРЕДЕЛЕНИЯ
+CS-Cart means the software registered at the U.S. Copyright Office of the Library of Congress (certificate #TX 6-852-685).
 
-Приведенные в настоящем разделе Соглашения термины имеют следующее значение только для настоящего Соглашения и не могут толковаться иначе применительно к условиям, закрепленным в настоящем Соглашении.
+Program means the version of CS-Cart, description of which is available at the Official Website of the Company at: https://www.cs-cart.com/compare-cs-cart-versions.html.
 
-Русская версия CS-Cart – программное обеспечение, зарегистрированное в Федеральной службе по интеллектуальной собственности Российской Федерации (свидетельство об официальной регистрации программы для ЭВМ №2015610604).
+CS-Cart Ultimate means the version of CS-Cart with more advanced functionality, description of which is available at the Official Website of the Company at: https://www.cs-cart.com/compare-cs-cart-versions.html.
 
-Программа — «Русская версия CS-Cart».
+Program-based Derivative means any software, work or information created by the User or a third party using the Program or any of its parts.
 
-Производные от Программы материалы — любая программа, работа, информация, разработанные Пользователем или третьим лицом с использованием Программы или какой-либо ее части.
+Use of the Program means any actions related to operation of the Program according to its purpose.
 
-Использование Программы — любые действия, связанные с функционированием Программы в соответствии с ее назначением.
+Upgrades of the Program means the changes in the Program distributed by the Company.
 
-Доменное имя — уникальное цифро-буквенно-символьное обозначение, предназначенное для идентификации ресурса в сети Интернет.
+Domain Name means a unique alphanumeric name intended to identify a resource on the Internet.
 
-Сервер — компьютер, на который устанавливается Программа.
+Server means a computer to which the Program is installed.
 
-Тестовая лицензия — право на Использование Программы (одной копии) на одном Сервере в течение 30 (тридцати) дней с момента первой установки Программы, предоставляемое Правообладателем Пользователю.
+Website means a resource available on the Internet through a common Domain Name.
 
-Полная лицензия — неограниченное по времени право на Использование Программы (одной копии) на одном Сервере, предоставляемое Правообладателем Пользователю.
+Trial License means the right to Use the Program (one copy) on one Server within thirty (30) days after the first installation of the Program provided by the Copyright Owner to the User.
 
-Лицензия на дополнительную витрину — неограниченное по времени право на Использование Программы на одном Доменном имени сверх числа Доменных имен, указываемого при приобретении Полной лицензии, предоставляемое Правообладателем Пользователю.
+Full License means the right to Use the Program (one copy) on one Server provided by the Copyright Owner to the User for unlimited time.
 
-Партнер — юридическое лицо или индивидуальный предприниматель, уполномоченные распространять Тестовые лицензии, Полные лицензии или Лицензии на дополнительную витрину.
+Official Website of the Company means the Website of the Company available at https://www.cs-cart.com.
 
-Конфиденциальная информация — содержание Программы (исходный код), все копии Программы и все производные работы, связанные с Программой, в том числе, но, не ограничиваясь, все обновления, модификации.
+Help Desk System means the software installed on the Official Website of the Company and available at https://helpdesk.cs-cart.com.
 
+Reseller means a legal entity or a private entrepreneur empowered to distribute the Trial License and/or the Full License.
 
-1. ОБЩИЕ ПОЛОЖЕНИЯ
+1. SUBJECT OF AGREEMENT
+According to the conditions of this Agreement, the Company provides the User with the Full License under a simple non-exclusive license on the entire world, provided that the User declares the number of Domain Names for which the Full License is obtained and through which the Program will be available on the Internet.
 
-Использование Программы Пользователем возможно только в рамках настоящего Соглашения.
+This Agreement is considered concluded only after the User has fulfilled the following conditions:
 
-Используя Программу, Пользователь тем самым подтверждает свое согласие с условиями, изложенными в настоящем Соглашении. Если Пользователь не желает быть связанным условиями данного Соглашения, то он не должен Использовать Программу.
+the User has provided truthful, accurate and complete personal information about yourself;
+the User has accepted the conditions of this Agreement;
+the User has paid the compensation for the Full License.
 
-Правообладатель доводит до сведения Пользователя, что Программа не продается, а, в соответствии с настоящим Соглашением, передается право на Использование Программы на условиях простой неисключительной лицензии.
+The Company provides the User with the Trial License under a simple non-exclusive license on the entire world only once. If the User was provided with the Trial License earlier, the Trial License is not provided to him again.
 
-Все случаи Использования Программы подпадают под действие данного Соглашения. Любое Использование Программы или любой ее части, противоречащее условиям данного Соглашения, запрещено. Если законодательством страны Пользователя предусмотрен иной порядок использования аналогичных продуктов, Пользователь имеет право Использовать Программу только способами и в пределах, прямо определенных в настоящем Соглашении.
+The User having the Trial License shall keep the text "Powered by CS-Cart" which contains a hyperlink to the site https://www.cs-cart.com on each page of the Program. Upon removing this text and/or the hyperlink the User bears liability for infringing the Company exclusive rights in accordance with the international agreements on copyright and intellectual property.
 
+The User shall, upon expiration of the term granted by the Trial License, purchase the Full License on the site https://www.cs-cart.com or from the Reseller or remove the Program both from the Server on which the Program was used and from other media if any.
 
-2. ПРЕДОСТАВЛЕНИЕ ЛИЦЕНЗИИ
+2. PRICE AND ORDER OF PAYMENT OF COMPENSATION
+The Company provides the User with the Full License only after the User has paid the compensation which amount is defined on the Official Website of the Company.
 
-Правообладатель предоставляет Пользователю Тестовую лицензию на условиях простой неисключительной лицензии на территории всего мира только один раз. Если Пользователю ранее предоставлялась Тестовая лицензия, то повторно Тестовая лицензия Пользователю не предоставляется.
+The compensation is paid by the User through the Company's Payment System or via a direct wire transfer to the bank account of the Company based on the invoice issued by the Company.
 
-Пользователь, обладающий Тестовой лицензией, обязан сохранить на каждой странице Программы текст «Работает на CS-Cart», содержащий гиперссылку на сайт http://www.cs-cart.ru. При удалении данного текста и/или гиперссылки Пользователь несет ответственность за нарушение исключительных прав Правообладателя согласно действующему законодательству Российской Федерации и международным соглашениям в области авторского права и интеллектуальной собственности.
+3. RIGHTS AND OBLIGATIONS OF PARTIES
+The User has the right to:
 
-Пользователь обязуется по истечении срока, предоставленного Тестовой лицензией, приобрести Полную лицензию на сайте http://www.cs-cart.ru или у Партнера, или удалить Программу как с Сервера, на котором использовалась Программа, так и с других носителей, если таковые имеются.
+- Use the Program during the entire term of the Full License;
+- Throughout the term of the Agreement, contact the Company with a description of bugs and errors detected during the Use of the Program. The Company, in turn, undertakes to inform the User of the possibility and term of correction of such bugs or errors.
 
-Правообладатель предоставляет Пользователю Полную лицензию на условиях простой неисключительной лицензии на территории всего мира только после оплаты Пользователем вознаграждения на сайте http://www.cs-cart.ru или Партнеру, при этом Пользователь сообщает количество Доменных имен, для которых приобретается Полная лицензия и через которые Программа будет доступна в сети Интернет.
+The User shall:
 
-Правообладатель предоставляет Пользователю Лицензию на дополнительную витрину на условиях простой неисключительной лицензии на территории всего мира только после оплаты Пользователем вознаграждения на сайте http://www.cs-cart.ru или Партнеру, при этом Пользователь сообщает, для какой имеющейся у него Полной лицензии приобретается Лицензия на дополнительную витрину.
+Use the Program only in the way specified in the Agreement;
+pay the compensation to the Company on time and in full;
+not use Upgrades of the Program and/or the Program of the versions that have been released by the Company before the User has purchased the Full License, as well as after the expiration of one calendar year from the date on which the User has purchased the Full License, unless the User has purchased a secondary right for such Full License to use these upgrades of the Program and new versions of the Program on the https://www.cs-cart.com/ website, and such right is active;
+notify the Company of any (full or partial) illegal Use of the Program by a third party without delay;
+not transfer the rights received from the Company under this Agreement to a third party.
 
+The Company has the right to:
 
-3. ИСКЛЮЧИТЕЛЬНОЕ ПРАВО И ОГРАНИЧЕНИЯ
+use the information received from the User to improve the Program, including informing the User about the introduced improvements, updates;
+notify the User that the copy of the Program is illegal and is used without the Full License.
 
-Исключительное право:
+The Company shall:
 
-Правообладателю принадлежат личные неимущественные авторские права и исключительное право на Программу, а также на все копии и все производные работы, связанные с Программой, в том числе, но, не ограничиваясь, на все обновления, модификации.
+provide the User with the Full License if the User has fulfilled all the conditions of this Agreement;
+grant the User access to the Help Desk System.
 
-Правообладатель имеет право:
+4. CONFIDENTIALITY AND PERSONAL INFORMATION
+The Company guarantees that personal information and other personal data provided by the User for the purpose of executing Section 1 of the Agreement will be used by the Company solely for the purposes of executing this Agreement. Such information is not subjected to transfer to any third parties except for the cases as stipulated by the current legislation of the USA. By concluding this Agreement, the User grants the Company the right to process (including, but not limited to: gather, systematize, store, revise, update, change, use, transfer) their personal information and other personal data in any way not contradicting the current legislation of the USA (which includes not using any automation facilities) for the purpose of performing obligations of the Agreement imposed on the Parties.
 
-- предоставлять уведомления Пользователю о том, что копия Программы является контрафактной и используется без Тестовой лицензии, Полной лицензии или Лицензии на дополнительную витрину.
+5. WARRANTIES AND LIMITATIONS
+The Program is provided "AS IS" with all possible malfunctions and in the state that is actual by the time the User pays the compensation to the Company.
 
-Ограничения:
+Under no circumstances the Company guarantees error-free and uninterrupted performance of the Program and that the Program will meet the requirements of the User as well as the Company disclaims any other warranties to the extent to which it is permitted by the effective law.
 
-Пользователь не имеет право:
+6. LIABILITY
+The User assumes all the risks related to the performance and the Use of the Program, including the risk of not getting the expected profit from the Use of the Program, the risk of a software failure after the Program is installed, etc.
 
-- делать копии Программы и допускать возможность копирования Программы третьими лицами без приобретения отдельной Полной лицензии;
+Under no circumstances the Company is liable to the User for any damages (including, but not limited to, any loss of profits and confidential or other information, the damages caused by an interruption of the business, loss of revenue, turnover, business reputation or data, neglected business opportunities, any indirect, incidental, special, punitive or consequential damages) related to the Use of the Program or impossibility to Use the Program.
 
-- использовать обновления Программы и/или Программу таких версий, которые были выпущены Правообладателем до приобретения Пользователем Полной Лицензии, а равно и после истечения одного календарного года с даты приобретения Пользователем Полной Лицензии, если для такой Полной Лицензии Пользователем не было приобретено на сайте http://www.cs-cart.ru дополнительное право на использование этих обновлений Программы и новых версий Программы, либо срок действия такого права закончился;
+In the event that the law of the User's country concedes no limitation of liability, or the liability of the Company is recognized by the competent court, the Company will be liable only for actual damage incurred from Using this Program if the damage is caused by a tort of the Company, or if the damage is caused by the reasons that the Company knew or should have known. The maximum amount of liability of the Company is limited to the amount of the compensation that the User paid for one Full License.
 
-- делать Программу доступной на большем числе Доменных имен, чем это было заявлено при приобретении Полной лицензии, если для них не было приобретено соответствующее число Лицензий на дополнительную витрину;
+7. TERM AND TERMINATION OF THE AGREEMENT
+The Agreement comes into effect on the date of fulfillment of all the conditions stipulated by Section 1 of this Agreement and is effective until terminated. The Agreement and the Full License are terminated immediately after the User violates any part of this Agreement without any additional notice from the Company. And the User consents to immediately remove the Program together with all copies, modifications and upgrades, or any Program-based Derivatives.
 
-- извлекать, выделять или использовать какие-либо составные части Программы для создания любых Производных от Программы материалов, а также допускать возможность их создания третьей стороной;
+The territory for this Agreement shall be the entire world. The User has the right to terminate the Full License at any time by discontinuing the Agreement and removing the Program together with all copies, modifications and upgrades, or Program-based Derivatives along with sending an appropriate notification to the Company. The Agreement will be deemed terminated from the date the Company receives the notification from the User.
 
-- продавать, отдавать под залог, лицензировать, сублицензировать, сдавать в аренду, лизинг и во временное пользование, уступать и иным способом передавать (путем продажи, обмена, дарения, в результате закона или иным способом) Программу, любые копии Программы (или любые ее части), Тестовую лицензию, Полную лицензию или Лицензию на дополнительную витрину и другие права на них, полностью и частично, третьим лицам без предварительного письменного согласия Правообладателя;
+In all cases, termination of the Full License and the Agreement deprives the User of the right to claim the return of the compensation paid to the Company as well as any other indemnification, except for the case provided by the Company’s policy on refunding the compensation paid by the User for the Full License. The contents and the conditions of the compensation refund policy are available on the Official Website of the Company at: https://www.cs-cart.com/money-back.html.
 
-- изменять, удалять, скрывать, делать малозаметными любые предупреждения и уведомления об авторских правах, патентах, товарных знаках, коммерческой тайне, а так же другие уведомления об интеллектуальной собственности из какой-либо части Программы без предварительного письменного согласия Правообладателя;
+8. FORCE MAJEURE
+Neither party shall be liable for any failure to perform any of its obligations hereunder due to causes beyond its reasonable control, such as fires, strikes (of employees of the Reseller or other employees), insurrections, riots, embargoes, natural and man-made disasters, delays in transportation, guidelines from civil or military authority.
 
-- препятствовать Правообладателю при получении им сведений об Использовании Программы.
+Each party shall provide the other party with a prompt notice of force majeure. Such a notice shall contain detailed information about the applicable circumstances.
 
-- использовать Программу при прекращении срока действия Тестовой лицензии.
+If a party's performance is delayed for a period of more than four (4) weeks due to force majeure, the other party may terminate this Agreement by sending a notification about termination of this Agreement to the other party's email. Neither party shall be liable to the other party if the Agreement is terminated due to force majeure.
 
-Пользователю запрещается удалять или модифицировать часть исходного кода Программы, которая осуществляет проверку подлинности Программы и выявляет, имеется ли Тестовая лицензия, Полная лицензия или Лицензия на дополнительную витрину.
+9. DISPUTE SETTLEMENT PROCEDURE
+The User acknowledges that the Company may suffer damage if the conditions of this Agreement are not respected, and therefore the User agrees that the Company has the right to use any form of protecting the violated rights and legitimate interests, including the direct appeal to the appropriate court without a necessity to comply with the claim settlement procedure.
 
+You and Company agree that any dispute, claim or controversy arising out of or relating in any way to the EULA, shall be determined by binding arbitration in San Diego County, California, instead of in courts of general jurisdiction. Arbitration uses a neutral arbitrator instead of a judge or jury, allows for more limited discovery than in court, and is subject to very limited review by courts. Arbitrators can award the same damages and relief that a court can award. You agree that, by agreeing to these EULA, the U.S. Federal Arbitration Act governs the interpretation and enforcement of this provision, and that you and Company are each waiving the right to a trial by jury or to participate in a class action. This arbitration provision shall survive termination of this Agreement.
 
-4. КОНФИДЕНЦИАЛЬНОСТЬ
+YOU AND COMPANY AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. Further, unless both you and Company agree otherwise, the arbitrator may not consolidate more than one person’s claims with your claims, and may not otherwise preside over any form of a representative or class proceeding. If this specific provision is found to be unenforceable, then the entirety of this arbitration provision shall be null and void. The arbitrator may award declaratory or injunctive relief only in favor of the individual party seeking relief and only to the extent necessary to provide relief warranted by that party’s individual claim.
 
-Пользователь обязуется не разглашать Конфиденциальную информацию, защищать и предотвращать несанкционированное разглашение Конфиденциальной информации и предпринимать соответствующие меры по охране Конфиденциальной информации. В случае если информация, являющаяся конфиденциальной по настоящему Соглашению, станет доступна третьим лицам без согласия Правообладателя, Пользователь обязуется компенсировать все понесенные Правообладателем в результате этого убытки.
+10. FINAL PROVISIONS
+These EULA shall be governed by and construed in accordance with the laws of the state of California, USA. without regard to conflict of laws provisions. If any provision or provisions of these terms shall be held to be invalid, illegal, unenforceable or in conflict with the law of any jurisdiction, the validity, legality and enforceability of the remaining provisions shall not in any way be affected or impaired thereby, and shall remain in full force and effect.
 
+If any condition of this Agreement for any reason becomes unenforceable, or is voided or declared invalid by the competent court, then it is regarded as an omission from the text of this Agreement, which, however, shall by no means affect the legitimacy and validity of the other conditions.
 
-5. ГАРАНТИИ И ОГРАНИЧЕНИЯ
+The section headings in the text of the Agreement are for convenience only and have no independent legal force, and shall not be interpreted in relation to the conditions of the Agreement.
 
-Программа предоставляется на условиях «КАК ЕСТЬ», со всеми возможными неисправностями и в том виде, в котором она существует на момент предоставления Правообладателем Пользователю Тестовой лицензии, Полной лицензии или Лицензии на дополнительную витрину.
+The User acknowledges that he has read this Agreement carefully and understood it completely, and agrees to accept its terms and conditions.
 
-Правообладатель ни при каких обстоятельствах не предоставляет никаких гарантий в отношении безошибочной и бесперебойной работы Программы, а так же не гарантирует, что Программа достаточным образом удовлетворит потребности Пользователя и отказывается от любых иных гарантий в той мере, в какой это допускает действующее законодательство.
+The Parties acknowledge the legal validity of the documents sent by email. The documents sent by the Company are considered created in the proper written form if they are sent from sales@cs-cart.com. Documents emanating from the User will be deemed completed in proper writing if they are sent from the email address provided by the Company User in accordance with Section 1 of this Agreement. Correspondence will be considered sent to the proper address if it is sent to the above email addresses.
 
-
-6. ОТВЕТСТВЕННОСТЬ
-
-Весь риск, возникающий в связи с Использованием Программы или работой с ней, ложится на Пользователя, в том числе риск неполучения ожидаемой прибыли от использования Программы, риск сбоя работы программного обеспечения после установки Программы и т.д.
-
-Ни при каких обстоятельствах Правообладатель не несет перед Пользователем ответственность за любые убытки (включая, но не ограничиваясь только перечисленным, упущенную выгоду, утрату конфиденциальной или иной информации, убытки, вызванные прерыванием коммерческой деятельности потерю прибыли, деловой репутации или данных, упущенные коммерческие возможности, потерю оборота, особые, случайно возникшие, непрямые, косвенные или штрафные потери и убытки), возникшие в связи с Использованием Программы или невозможностью Использования Программы.
-
-В случае если законодательство страны Пользователя не допускает ограничения ответственности или ответственность Правообладателя будет установлена соответствующим решением компетентного суда, Правообладатель будет нести ответственность только за реальный ущерб, понесенный Пользователем от Использования Программы, если причинение такого ущерба связано с виновными действиями Правообладателя, или если ущерб возник вследствие причин, о которых Правообладатель знал или должен был знать. При этом максимальный размер ответственности Правообладателя ограничивается суммой вознаграждения, уплаченного Пользователем за одну Полную лицензию.
-
-Указанные в настоящем разделе Соглашения ограничения ответственности Правообладателя распространяются на Программу и на все объекты, которые с ней связаны.
-
-
-7. РАСТОРЖЕНИЕ СОГЛАШЕНИЯ И ПРЕКРАЩЕНИЕ ДЕЙСТВИЯ ЛИЦЕНЗИИ
-
-Соглашение действует до момента его расторжения. Соглашение расторгается при прекращении действия Тестовой лицензии. Тестовая лицензия прекращает свое действие по истечении 30 (тридцати) дней с момента первого скачивания Программы Пользователем. Соглашение также расторгается, и Тестовая лицензия, Полная лицензия вместе с соответствующими Лицензиями на дополнительную витрину прекращают свое действие немедленно в момент нарушения Пользователем любого из условий настоящего Соглашения без дополнительного уведомления со стороны Правообладателя, при этом Пользователь обязуется незамедлительно удалить Программу, все ее копии, модификации, модернизации и Производные от Программы материалы.
-
-Настоящее Соглашение действует на территории всего мира. Пользователь имеет право в любое время отказаться от Тестовой лицензии, Полной лицензии вместе с соответствующими Лицензиями на дополнительную витрину, расторгнув Соглашение и удалив Программу, все ее копии, модификации, модернизации и Производные от Программы материалы, и направив соответствующее уведомление Правообладателю. Соглашение будет считаться расторгнутым с момента получения Правообладателем уведомления Пользователя.
-
-
-8. ЗАКЛЮЧИТЕЛЬНЫЕ ПОЛОЖЕНИЯ
-
-Данное Соглашение составлено с учетом действующего законодательства Российской Федерации. Правом, применимым к толкованию настоящего Соглашения, а также всем отношениям, вытекающим из существа настоящего Соглашения, является материальное и процессуальное право Российской Федерации.
-
-Если любое условие данного Соглашения по той или иной причине теряет юридическую силу или становится неосуществимым или признается недействительным по решению компетентного суда, то оно рассматривается как невключенное в текст настоящего Соглашения, что, однако, никоим образом не влияет на законность и обязательность выполнения других условий.
-
-Заголовки разделов по тексту Соглашения приведены исключительно для удобства и не имеют самостоятельной юридической силы, не могут толковаться применительно к условиям Соглашения.
-
-Пользователь подтверждает, что прочитал настоящее Соглашение, понимает его полностью и согласен выполнять его условия.
-
-Настоящее Соглашение может изменяться Правообладателем в одностороннем порядке. Уведомление Пользователя о внесенных изменениях, текст внесенных изменений публикуется на сайте http://www.cs-cart.ru. Указанные изменения в условиях Соглашения вступают в силу с даты размещения уведомления на сайте http://www.cs-cart.ru, если иное не оговорено в соответствующей публикации и являются обязательными для принятия и исполнения Пользователем при дальнейшем Использовании Программы.
-
-Пользователь признает, что Правообладатель может понести ущерб, если условия данного Соглашения не соблюдаются, и потому Пользователь соглашается с тем, что Правообладатель наделен правом использовать любые формы защиты своих нарушенных прав и законных интересов, в том числе, и такую форму как непосредственное обращение в соответствующий суд без соблюдения претензионного порядка.
-
-Все споры, возникающие из существа настоящего Соглашения или связанные с ним, его толкованием, исполнением, расторжением, прекращением и утверждениями о его недействительности во всех случаях передаются на рассмотрение Арбитражного суда Ульяновской области или соответствующего суда на территории Российской Федерации (компетентный суд) по месту нахождения Правообладателя. В случае, если Пользователь является юридическим лицом или индивидуальным предпринимателем, зарегистрированным за пределами Российской Федерации, все споры, возникающие из существа настоящего Соглашения или связанные с ним, его толкованием, исполнением, расторжением, прекращением и утверждениями о его недействительности во всех случаях будут разрешаться в арбитражном порядке согласно Регламенту Международного коммерческого арбитражного суда при Торгово-промышленной палате Российской Федерации (далее - «Регламент», http://mkas.tpprf.ru/ru/reglamentmkas.php), Регламент которого считается включенным в текст данного Соглашения путем отсылки к данному пункту. Арбитражная комиссия состоит из 1 (одного) арбитра, выбранного в соответствии с Регламентом. Язык, используемый в арбитражном процессе — русский. Регулирующим законодательством Соглашения является материальное право Российской Федерации. Заседание суда будет проводиться в г. Москве, Российская Федерация. Обеспечительной мерой в отношении предмета спора может быть только приостановление взыскания по оспариваемому истцом исполнительному или иному документу, взыскание по которому производится в бесспорном (безакцептном) порядке. Все расходы по арбитражному разбирательству оплачиваются согласно Регламенту. Вынесенное арбитражное решение будет окончательным и обязательным для соблюдения обеими сторонами, и арбитражное решение может быть приведено в исполнение в любом компетентном суде.
-
-Стороны признают юридическую силу документов, отправленных посредством электронной связи. Документы, исходящие от Правообладателя, будут считаться совершенными в надлежащей письменной форме, если они отправлены с электронных адресов sales@cs-cart.comи/или sales@cs-cart.ru.
-
-Программа охраняется законодательством Российской Федерации и международным законодательством об авторском праве и интеллектуальной собственности.
-
-© 2012 Калыняк В.В., Винокуров А.В., Шальнев И.М.
+© Bolide Network LLC

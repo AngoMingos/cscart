@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-15 19:18:05
+/* Smarty version 4.3.0, created on 2024-10-27 22:59:55
   from 'D:\OSPanel\domains\cscart\design\backend\templates\views\block_manager\components\existing_blocks_list.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_670e95bd0d93e6_25882805',
+  'unifunc' => 'content_671e9bbb4f16a9_20617054',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '40064ec0421a13acb2e471116e9ed5e5f8677c0b' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\views\\block_manager\\components\\existing_blocks_list.tpl',
-      1 => 1728457709,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_670e95bd0d93e6_25882805 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e9bbb4f16a9_20617054 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\lib\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.replace.php','function'=>'smarty_modifier_replace',),1=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\modifier.truncate.php','function'=>'smarty_modifier_truncate',),));
 \Tygh\Languages\Helper::preloadLangVars(array('delete_block'));
 $_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['unique_blocks']->value, 'block');

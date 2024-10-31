@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-15 19:08:06
+/* Smarty version 4.3.0, created on 2024-10-27 22:59:32
   from 'D:\OSPanel\domains\cscart\design\backend\templates\common\dynamic_navigation.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_670e936680cdb0_23880284',
+  'unifunc' => 'content_671e9ba4015840_03634410',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'd2d742e7953550e9206eef5c9028484a2d2ae742' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\common\\dynamic_navigation.tpl',
-      1 => 1728457693,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_670e936680cdb0_23880284 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e9ba4015840_03634410 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\block.hook.php','function'=>'smarty_block_hook',),));
 if ($_smarty_tpl->tpl_vars['navigation']->value && $_smarty_tpl->tpl_vars['navigation']->value['dynamic'] && $_smarty_tpl->tpl_vars['navigation']->value['dynamic']['sections']) {?>
     <div class="sidebar-row">

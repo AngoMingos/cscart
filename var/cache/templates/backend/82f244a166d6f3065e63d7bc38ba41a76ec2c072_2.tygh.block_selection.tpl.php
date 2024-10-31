@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-15 19:18:04
+/* Smarty version 4.3.0, created on 2024-10-27 22:59:55
   from 'D:\OSPanel\domains\cscart\design\backend\templates\views\block_manager\block_selection.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_670e95bccbf512_10071268',
+  'unifunc' => 'content_671e9bbb251db7_22886020',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '82f244a166d6f3065e63d7bc38ba41a76ec2c072' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\views\\block_manager\\block_selection.tpl',
-      1 => 1728457709,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -22,7 +22,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'tygh:views/block_manager/components/existing_blocks_list.tpl' => 1,
   ),
 ),false)) {
-function content_670e95bccbf512_10071268 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e9bbb251db7_22886020 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\function.script.php','function'=>'smarty_function_script',),));
 \Tygh\Languages\Helper::preloadLangVars(array('manage_existing_block','use_existing_block','create_new_block'));
 echo smarty_function_script(array('src'=>"js/tygh/tabs.js"),$_smarty_tpl);?>

@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-15 19:08:04
+/* Smarty version 4.3.0, created on 2024-10-27 22:59:30
   from 'D:\OSPanel\domains\cscart\design\backend\templates\views\block_manager\render\block.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_670e9364ae89f0_22571820',
+  'unifunc' => 'content_671e9ba2316634_05589956',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '997469c085a61aba40984e0cdbbb696bb176aa65' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\views\\block_manager\\render\\block.tpl',
-      1 => 1728457710,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -23,7 +23,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'tygh:common/popupbox.tpl' => 1,
   ),
 ),false)) {
-function content_670e9364ae89f0_22571820 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e9ba2316634_05589956 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\lib\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.replace.php','function'=>'smarty_modifier_replace',),1=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\function.include_ext.php','function'=>'smarty_function_include_ext',),));
 \Tygh\Languages\Helper::preloadLangVars(array('disable','enable','bm_confirm','block_options','enable_or_disable_block','block_settings','delete_block','editing_block','block_options','delete_block','on_off','select_block'));
 if ($_smarty_tpl->tpl_vars['block_data']->value) {?>

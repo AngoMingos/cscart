@@ -15,7 +15,7 @@
     <location dispatch="default" is_default="1" layout_id="3" object_ids="" custom_html="" position="10" lang_code="en" name="Default" title="" meta_description="" meta_keywords="">
         <containers>
             <container container_id="1" location_id="1" position="TOP_PANEL" width="16" user_class="top-grid" linked_to_default="Y" status="A">
-                <grid width="3" user_class="top-links-grid" linked_to_default="Y" status="A" offset="0" omega="0" alpha="1" wrapper="" content_align="LEFT" html_element="div" clear="0">
+                <grid width="4" user_class="top-links-grid" linked_to_default="Y" status="A" offset="0" omega="0" alpha="1" wrapper="" content_align="LEFT" html_element="div" clear="0">
                     <blocks>
                         <block>
                             <type><![CDATA[languages]]></type>
@@ -38,6 +38,7 @@
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Языки]]></translation>
+                                <translation lang_code="el"><![CDATA[Γλώσσες]]></translation>
                             </translations>
                             <contents />
                         </block>
@@ -62,12 +63,13 @@
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Валюта]]></translation>
+                                <translation lang_code="el"><![CDATA[Ισοτιμίες]]></translation>
                             </translations>
                             <contents />
                         </block>
                     </blocks>
                 </grid>
-                <grid width="8" user_class="top-links-grid" linked_to_default="Y" status="A" offset="0" omega="0" alpha="0" wrapper="" content_align="RIGHT" html_element="div" clear="0">
+                <grid width="10" user_class="top-links-grid" linked_to_default="Y" status="A" offset="0" omega="0" alpha="0" wrapper="" content_align="RIGHT" html_element="div" clear="0">
                     <blocks>
                         <block>
                             <type><![CDATA[menu]]></type>
@@ -103,30 +105,6 @@
                         </block>
                     </blocks>
                 </grid>
-                <grid width="3" user_class="top-links-grid" linked_to_default="Y" status="A" offset="0" omega="0" alpha="0" wrapper="" content_align="RIGHT" html_element="div" clear="0">
-                    <blocks>
-                        <block>
-                            <type><![CDATA[geo_maps_customer_location]]></type>
-                            <properties>
-                                <template><![CDATA[addons/geo_maps/blocks/customer_location.tpl]]></template>
-                            </properties>
-                            <lang_code><![CDATA[en]]></lang_code>
-                            <name><![CDATA[Customer location]]></name>
-                            <object_id><![CDATA[0]]></object_id>
-                            <object_type><![CDATA[]]></object_type>
-                            <content><![CDATA[]]></content>
-                            <object_ids><![CDATA[]]></object_ids>
-                            <wrapper><![CDATA[]]></wrapper>
-                            <user_class><![CDATA[]]></user_class>
-                            <order><![CDATA[0]]></order>
-                            <status><![CDATA[A]]></status>
-                            <translations>
-                                <translation lang_code="ru"><![CDATA[Местоположение покупателя]]></translation>
-                            </translations>
-                            <contents/>
-                        </block>
-                    </blocks>
-                </grid>
                 <grid width="2" user_class="top-links-grid" linked_to_default="Y" status="A" offset="0" omega="1" alpha="0" wrapper="" content_align="RIGHT" html_element="div" clear="1">
                     <blocks>
                         <block>
@@ -142,10 +120,11 @@
                             <object_ids><![CDATA[]]></object_ids>
                             <wrapper><![CDATA[blocks/wrappers/onclick_dropdown.tpl]]></wrapper>
                             <user_class><![CDATA[top-my-account]]></user_class>
-                            <order><![CDATA[2]]></order>
+                            <order><![CDATA[0]]></order>
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Мой профиль]]></translation>
+                                <translation lang_code="el"><![CDATA[Ο Λογαριασμός μου]]></translation>
                             </translations>
                             <contents />
                         </block>
@@ -197,6 +176,7 @@
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Поиск]]></translation>
+                                <translation lang_code="el"><![CDATA[Αναζήτηση]]></translation>
                             </translations>
                             <contents />
                         </block>
@@ -249,6 +229,7 @@
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Корзина]]></translation>
+                                <translation lang_code="el"><![CDATA[Περιεχόμενο Καλαθιού]]></translation>
                             </translations>
                             <contents />
                         </block>
@@ -388,7 +369,7 @@
 </div>
 
 <div class="ty-social-link youtube">
-    <a href="https://www.youtube.com/channel/UC5hI_lecNxdp1UfLR2GZ4iQ"><span class="ty-icon ty-icon-youtube"></span>Youtube</a>
+    <a href="https://www.youtube.com/user/cscartvideos"><span class="ty-icon ty-icon-youtube"></span>Youtube</a>
 </div></div>
 ]]></content>
                                 </content>
@@ -421,7 +402,7 @@
 </div>
 
 <div class="ty-social-link youtube">
-    <a href="https://www.youtube.com/channel/UC5hI_lecNxdp1UfLR2GZ4iQ"><span class="ty-icon ty-icon-youtube"></span>Youtube</a>
+    <a href="https://www.youtube.com/user/cscartvideos"><span class="ty-icon ty-icon-youtube"></span>Youtube</a>
 </div></div>]]></content>
                                         </content>
                                     </item>
@@ -450,6 +431,7 @@
                                 <status><![CDATA[A]]></status>
                                 <translations>
                                     <translation lang_code="ru"><![CDATA[Моя учетная запись]]></translation>
+                                    <translation lang_code="el"><![CDATA[Ο Λογαριασμός μου]]></translation>
                                 </translations>
                                 <contents />
                             </block>
@@ -584,6 +566,7 @@
                                 <status><![CDATA[A]]></status>
                                 <translations>
                                     <translation lang_code="ru"><![CDATA[О нас]]></translation>
+                                    <translation lang_code="el"><![CDATA[Η Εταιρεία​]]></translation>
                                 </translations>
                                 <contents>
                                     <item>
@@ -605,28 +588,6 @@
                 </grid>
                 <grid width="16" user_class="ty-footer-grid__full-width footer-copyright" linked_to_default="Y" status="A" offset="0" omega="1" alpha="1" wrapper="" content_align="FULL_WIDTH" html_element="div" clear="1">
                     <grid width="8" user_class="" linked_to_default="Y" status="A" offset="0" omega="0" alpha="1" wrapper="" content_align="LEFT" html_element="div" clear="0">
-                        <blocks>
-                            <block>
-                                <type><![CDATA[template]]></type>
-                                <properties>
-                                    <template><![CDATA[blocks/static_templates/copyright.tpl]]></template>
-                                </properties>
-                                <lang_code><![CDATA[en]]></lang_code>
-                                <name><![CDATA[Copyright]]></name>
-                                <object_id><![CDATA[0]]></object_id>
-                                <object_type><![CDATA[]]></object_type>
-                                <content><![CDATA[]]></content>
-                                <object_ids><![CDATA[]]></object_ids>
-                                <wrapper><![CDATA[]]></wrapper>
-                                <user_class><![CDATA[]]></user_class>
-                                <order><![CDATA[2]]></order>
-                                <status><![CDATA[A]]></status>
-                                <translations>
-                                    <translation lang_code="ru"><![CDATA[Копирайт]]></translation>
-                                </translations>
-                                <contents />
-                            </block>
-                        </blocks>
                     </grid>
                     <grid width="8" user_class="" linked_to_default="Y" status="A" offset="0" omega="1" alpha="0" wrapper="" content_align="RIGHT" html_element="div" clear="1">
                         <blocks>
@@ -839,7 +800,7 @@
                                 <pause_delay><![CDATA[3]]></pause_delay>
                                 <item_quantity><![CDATA[4]]></item_quantity>
                                 <thumbnail_width><![CDATA[160]]></thumbnail_width>
-                                <hide_add_to_cart_button><![CDATA[N]]></hide_add_to_cart_button>
+                                <hide_add_to_cart_button><![CDATA[Y]]></hide_add_to_cart_button>
                                 <outside_navigation><![CDATA[Y]]></outside_navigation>
                             </properties>
                             <lang_code><![CDATA[en]]></lang_code>
@@ -884,7 +845,7 @@
                                 <template><![CDATA[blocks/products/products_multicolumns.tpl]]></template>
                                 <item_number><![CDATA[N]]></item_number>
                                 <number_of_columns><![CDATA[4]]></number_of_columns>
-                                <hide_add_to_cart_button><![CDATA[N]]></hide_add_to_cart_button>
+                                <hide_add_to_cart_button><![CDATA[Y]]></hide_add_to_cart_button>
                             </properties>
                             <lang_code><![CDATA[en]]></lang_code>
                             <name><![CDATA[On Sale]]></name>
@@ -904,6 +865,7 @@
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Распродажа]]></translation>
+                                <translation lang_code="el"><![CDATA[Προσφορές]]></translation>
                             </translations>
                             <contents>
                                 <item>
@@ -1029,6 +991,7 @@
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Отзывы]]></translation>
+                                <translation lang_code="el"><![CDATA[Κριτικές]]></translation>
                             </translations>
                             <contents />
                         </block>
@@ -1198,6 +1161,7 @@
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Выбранные фильтры]]></translation>
+                                <translation lang_code="el"><![CDATA[επιλεγμενα φιλτρα]]></translation>
                             </translations>
                             <contents>
                                 <item>
@@ -1237,6 +1201,7 @@
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Фильтры товаров]]></translation>
+                                <translation lang_code="el"><![CDATA[Φίλτρα Προϊόντων]]></translation>
                             </translations>
                             <contents>
                                 <item>
@@ -1256,7 +1221,7 @@
                             <properties>
                                 <template><![CDATA[blocks/products/products_small_items.tpl]]></template>
                                 <item_number><![CDATA[N]]></item_number>
-                                <hide_add_to_cart_button><![CDATA[N]]></hide_add_to_cart_button>
+                                <hide_add_to_cart_button><![CDATA[Y]]></hide_add_to_cart_button>
                             </properties>
                             <lang_code><![CDATA[en]]></lang_code>
                             <name><![CDATA[Recently Viewed]]></name>
@@ -1275,6 +1240,7 @@
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Недавно просмотренные]]></translation>
+                                <translation lang_code="el"><![CDATA[Είδατε Πρόσφατα]]></translation>
                             </translations>
                             <contents>
                                 <item>
@@ -1428,8 +1394,36 @@
     </location>
     <location dispatch="checkout" is_default="0" layout_id="1" object_ids="" custom_html="" position="60" lang_code="en" name="Checkout" title="" meta_description="" meta_keywords="">
         <containers>
-            <container container_id="17" location_id="5" position="TOP_PANEL" width="16" user_class="" linked_to_default="Y" status="A" />
-            <container container_id="18" location_id="5" position="HEADER" width="16" user_class="" linked_to_default="Y" status="A" />
+            <container container_id="17" location_id="5" position="TOP_PANEL" width="16" user_class="" linked_to_default="N" status="D">
+                <grid width="16" user_class="" linked_to_default="Y" status="A" offset="0" omega="0" alpha="0" wrapper="" content_align="FULL_WIDTH" html_element="div" clear="0"/>
+            </container>
+            <container container_id="18" location_id="5" position="HEADER" width="16" user_class="litecheckout__header" linked_to_default="N" status="A">
+                <grid width="3" user_class="top-logo-grid" linked_to_default="N" status="A" offset="0" omega="1" alpha="1" wrapper="" content_align="FULL_WIDTH" html_element="div" clear="1">
+                    <blocks>
+                        <block>
+                            <type><![CDATA[template]]></type>
+                            <properties>
+                                <template><![CDATA[blocks/static_templates/logo.tpl]]></template>
+                                <enable_link><![CDATA[N]]></enable_link>
+                            </properties>
+                            <lang_code><![CDATA[en]]></lang_code>
+                            <name><![CDATA[Logo without link]]></name>
+                            <object_id><![CDATA[0]]></object_id>
+                            <object_type><![CDATA[]]></object_type>
+                            <content><![CDATA[]]></content>
+                            <object_ids><![CDATA[]]></object_ids>
+                            <wrapper><![CDATA[]]></wrapper>
+                            <user_class><![CDATA[]]></user_class>
+                            <order><![CDATA[0]]></order>
+                            <status><![CDATA[A]]></status>
+                            <translations>
+                                <translation lang_code="ru"><![CDATA[Logo without link]]></translation>
+                            </translations>
+                            <contents/>
+                        </block>
+                    </blocks>
+                </grid>
+            </container>
             <container container_id="19" location_id="5" position="CONTENT" width="16" user_class="content-grid" linked_to_default="Y" status="A">
                 <grid width="12" user_class="main-content-grid" linked_to_default="Y" status="A" offset="0" omega="0" alpha="1" wrapper="blocks/grid_wrappers/lite_checkout.tpl" content_align="FULL_WIDTH" html_element="div" clear="0">
                     <blocks>
@@ -1760,28 +1754,8 @@
                         </block>
                     </blocks>
                 </grid>
-                <grid width="4" user_class="side-grid" linked_to_default="Y" status="A" offset="0" omega="1" alpha="0" wrapper="" content_align="FULL_WIDTH" html_element="div" clear="1">
+                <grid width="4" user_class="side-grid litecheckout__cart" linked_to_default="Y" status="A" offset="0" omega="1" alpha="0" wrapper="" content_align="FULL_WIDTH" html_element="div" clear="1">
                     <blocks>
-                        <block>
-                            <type><![CDATA[checkout]]></type>
-                            <properties>
-                                <template><![CDATA[blocks/checkout/summary.tpl]]></template>
-                            </properties>
-                            <lang_code><![CDATA[en]]></lang_code>
-                            <name><![CDATA[Order summary]]></name>
-                            <object_id><![CDATA[0]]></object_id>
-                            <object_type><![CDATA[]]></object_type>
-                            <content><![CDATA[]]></content>
-                            <object_ids><![CDATA[]]></object_ids>
-                            <wrapper><![CDATA[blocks/wrappers/sidebox_important.tpl]]></wrapper>
-                            <user_class><![CDATA[ty-order-summary]]></user_class>
-                            <order><![CDATA[0]]></order>
-                            <status><![CDATA[A]]></status>
-                            <translations>
-                                <translation lang_code="ru"><![CDATA[Сумма заказа]]></translation>
-                            </translations>
-                            <contents />
-                        </block>
                         <block>
                             <type><![CDATA[checkout]]></type>
                             <properties>
@@ -1793,46 +1767,78 @@
                             <object_type><![CDATA[]]></object_type>
                             <content><![CDATA[]]></content>
                             <object_ids><![CDATA[]]></object_ids>
-                            <wrapper><![CDATA[blocks/wrappers/sidebox_important.tpl]]></wrapper>
+                            <wrapper><![CDATA[]]></wrapper>
                             <user_class><![CDATA[order-products]]></user_class>
                             <order><![CDATA[0]]></order>
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Товаров в Вашем заказе]]></translation>
+                                <translation lang_code="el"><![CDATA[Προϊόντα στην Παραγγελία]]></translation>
                             </translations>
                             <contents />
                         </block>
                         <block>
                             <type><![CDATA[checkout]]></type>
                             <properties>
-                                <template><![CDATA[blocks/checkout/order_info.tpl]]></template>
+                                <template><![CDATA[blocks/checkout/summary.tpl]]></template>
                             </properties>
                             <lang_code><![CDATA[en]]></lang_code>
-                            <name><![CDATA[Order information]]></name>
+                            <name><![CDATA[Order summary]]></name>
                             <object_id><![CDATA[0]]></object_id>
                             <object_type><![CDATA[]]></object_type>
                             <content><![CDATA[]]></content>
                             <object_ids><![CDATA[]]></object_ids>
-                            <wrapper><![CDATA[blocks/wrappers/sidebox_important.tpl]]></wrapper>
-                            <user_class><![CDATA[order-information]]></user_class>
-                            <order><![CDATA[0]]></order>
+                            <wrapper><![CDATA[]]></wrapper>
+                            <user_class><![CDATA[]]></user_class>
+                            <order><![CDATA[1]]></order>
                             <status><![CDATA[A]]></status>
                             <translations>
-                                <translation lang_code="ru"><![CDATA[Информация о заказе]]></translation>
+                                <translation lang_code="ru"><![CDATA[Сумма заказа]]></translation>
+                                <translation lang_code="el"><![CDATA[Περίληψη Παραγγελίας]]></translation>
                             </translations>
                             <contents />
                         </block>
                     </blocks>
                 </grid>
             </container>
-            <container container_id="20" location_id="5" position="FOOTER" width="16" user_class="" linked_to_default="Y" status="A" />
+            <container container_id="20" location_id="5" position="FOOTER" width="16" user_class="litecheckout__footer" linked_to_default="N" status="A">
+                <grid width="16" user_class="ty-footer-grid__full-width footer-copyright" linked_to_default="N" status="A" offset="0" omega="1" alpha="1" wrapper="" content_align="FULL_WIDTH" html_element="div" clear="1">
+                    <grid width="2" user_class="" linked_to_default="Y" status="A" offset="0" omega="0" alpha="1" wrapper="" content_align="LEFT" html_element="div" clear="0">
+                        <blocks>
+                            <block>
+                                <type><![CDATA[template]]></type>
+                                <properties>
+                                    <template><![CDATA[blocks/static_templates/logo.tpl]]></template>
+                                    <enable_link><![CDATA[Y]]></enable_link>
+                                </properties>
+                                <lang_code><![CDATA[en]]></lang_code>
+                                <name><![CDATA[Logo]]></name>
+                                <object_id><![CDATA[0]]></object_id>
+                                <object_type><![CDATA[]]></object_type>
+                                <content><![CDATA[]]></content>
+                                <object_ids><![CDATA[]]></object_ids>
+                                <wrapper><![CDATA[]]></wrapper>
+                                <user_class><![CDATA[top-logo]]></user_class>
+                                <order><![CDATA[0]]></order>
+                                <status><![CDATA[A]]></status>
+                                <translations>
+                                    <translation lang_code="ru"><![CDATA[Логотип]]></translation>
+                                </translations>
+                                <contents />
+                            </block>
+                        </blocks>
+                    </grid>
+                    <grid width="14" user_class="" linked_to_default="Y" status="A" offset="0" omega="1" alpha="0" wrapper="" content_align="FULL_WIDTH" html_element="div" clear="1">
+                    </grid>
+                </grid>
+            </container>
         </containers>
         <translations>
             <translation lang_code="ru">
                 <meta_keywords><![CDATA[]]></meta_keywords>
                 <page_title><![CDATA[]]></page_title>
                 <meta_description><![CDATA[]]></meta_description>
-                <name>Информация о заказе</name>
+                <name>&#x41E;&#x444;&#x43E;&#x440;&#x43C;&#x438;&#x442;&#x44C; &#x437;&#x430;&#x43A;&#x430;&#x437;</name>
             </translation>
         </translations>
     </location>
@@ -1906,6 +1912,7 @@
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Информация для авторизации]]></translation>
+                                <translation lang_code="el"><![CDATA[Πληροφορίες Εγγραφής]]></translation>
                             </translations>
                             <contents />
                         </block>
@@ -1993,6 +2000,7 @@
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Личная информация]]></translation>
+                                <translation lang_code="el"><![CDATA[Πληροφορίες Προφίλ]]></translation>
                             </translations>
                             <contents />
                         </block>
@@ -2164,7 +2172,7 @@
                             <properties>
                                 <template><![CDATA[blocks/products/products_small_items.tpl]]></template>
                                 <item_number><![CDATA[N]]></item_number>
-                                <hide_add_to_cart_button><![CDATA[N]]></hide_add_to_cart_button>
+                                <hide_add_to_cart_button><![CDATA[Y]]></hide_add_to_cart_button>
                             </properties>
                             <lang_code><![CDATA[en]]></lang_code>
                             <name><![CDATA[Recently Viewed]]></name>
@@ -2183,6 +2191,7 @@
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Недавно просмотренные]]></translation>
+                                <translation lang_code="el"><![CDATA[Είδατε Πρόσφατα]]></translation>
                             </translations>
                             <contents>
                                 <item>
@@ -2411,6 +2420,7 @@
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Фильтры товаров]]></translation>
+                                <translation lang_code="el"><![CDATA[Φίλτρα Προϊόντων]]></translation>
                             </translations>
                             <contents>
                                 <item>
@@ -2538,6 +2548,7 @@
                             <status><![CDATA[A]]></status>
                             <translations>
                                 <translation lang_code="ru"><![CDATA[Недавние посты]]></translation>
+                                <translation lang_code="el"><![CDATA[Τελευταία Άρθρα]]></translation>
                             </translations>
                             <contents>
                                 <item>

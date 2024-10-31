@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.0, created on 2024-10-15 19:03:31
+/* Smarty version 4.3.0, created on 2024-10-27 22:50:24
   from 'D:\OSPanel\domains\cscart\design\backend\templates\buttons\button.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.0',
-  'unifunc' => 'content_670e9253575eb4_26510522',
+  'unifunc' => 'content_671e9980215cd2_34683560',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'beb51fa5cc0eb65d464c4d71224c2cd237217562' => 
     array (
       0 => 'D:\\OSPanel\\domains\\cscart\\design\\backend\\templates\\buttons\\button.tpl',
-      1 => 1728457692,
+      1 => 1729113543,
       2 => 'tygh',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_670e9253575eb4_26510522 (Smarty_Internal_Template $_smarty_tpl) {
+function content_671e9980215cd2_34683560 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'D:\\OSPanel\\domains\\cscart\\app\\functions\\smarty_plugins\\function.include_ext.php','function'=>'smarty_function_include_ext',),));
 if ($_smarty_tpl->tpl_vars['but_role']->value == "text") {?>
     <?php $_smarty_tpl->_assignInScope('class', '');?>

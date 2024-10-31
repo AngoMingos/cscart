@@ -1,0 +1,1 @@
+{style src="addons/Acart_power_design/styles.less"}
